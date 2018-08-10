@@ -31,7 +31,7 @@
 
 ### Additional Documents can be found on the shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
 
-##### Please contact deangela.duff@nyu.edu if you do not have access.
+##### Please contact scott.fitzgerald@nyu.edu if you do not have access.
 
 * IDM-modified Syllabus Template \(google doc or word doc\)
 * TCS Faculty manual \(word doc\)
