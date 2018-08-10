@@ -2,7 +2,7 @@
 
 [**R. Luke DuBois**](http://engineering.nyu.edu/people/r-luke-dubois), MAGNET 884, dubois@nyu.edu
 
-[**De Angela Duff**](http://engineering.nyu.edu/people/de-angela-duff), MAGNET 882, deangela.duff@nyu.edu
+[**Scott Fitzgerald**](http://engineering.nyu.edu/people/de-angela-duff), MAGNET 882, scott.fitzgerald@nyu.edu
 
 ## IDM Full-time Faculty
 
@@ -12,21 +12,19 @@
 
 [**Dana Karwas**](http://engineering.nyu.edu/people/dana-karwas), MAGNET 878, dana.karwas@nyu.edu
 
+[**Benedetta Pinatella**] 
+
 [**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek), MAGNET 880, mls386@nyu.edu
 
 ## IDM Visiting Full-time Faculty
 
-[**Katherine Bennett**](http://www.katherinebennett.net), MAGNET 881, bennett.katherine@nyu.edu
-
-[**Kate Sicchio**](http://blog.sicchio.com), MAGNET 874, sicchio@nyu.edu
+[**Kathleen McDermott**]
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
 [**Anne-Laure Fayard**](http://engineering.nyu.edu/people/anne-laure-fayard) \(Tandon's Tech Management and Innovation\)
 
 [**Anita Perr**](http://steinhardt.nyu.edu/faculty/Anita_Perr) \(Steinhardt's Occupational Therapy\)
-
-[**Scott Fitzgerald**](http://ennuigo.com/)  \(NYU Abu Dhabi / NYU Shanghai / Tisch's ITP\)
 
 [**Mitchell Joachim**](http://www.archinode.com/) \(NYU Gallatin\)
 
