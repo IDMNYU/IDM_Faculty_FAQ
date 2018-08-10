@@ -27,7 +27,7 @@ I have an unlimited basecamp account if you’d like to use it.
 
 ##### Github
 
-We have an IDM github repository, [https://github.com/IDMNYU](https://github.com/IDMNYU). If you are going to use github for your class, please post it within the IDM github repository. Please email your github username to deangela.duff@nyu.edu for access.
+We have an IDM github repository, [https://github.com/IDMNYU](https://github.com/IDMNYU). If you are going to use github for your class, please post it within the IDM github repository. Please email your github username to scott.fitzgerald@nyu.edu for access.
 
 ##### Wordpress
 
