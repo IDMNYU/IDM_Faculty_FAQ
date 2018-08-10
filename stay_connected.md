@@ -10,7 +10,7 @@ During the Graduate Colloquium, all graduate students meet together for lecture 
 
 The Graduate Colloquium is open to the public.
 
-For the Fall 2017 semester, our graduate colloquium will be held on Wednesdays from 6pm-7pm in MAGNET's Lecture Hall.
+For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 6pm in MAGNET's Lecture Hall.
 
 #### Past Graduate Colloquium Speakers
 
