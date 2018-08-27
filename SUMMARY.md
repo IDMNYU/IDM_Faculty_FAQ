@@ -14,7 +14,7 @@
 * [Class Info on Albert](class_roster.md)
 * [Grading on Albert](grading/README.md)
   * [Albert](grading/albert_roster__grading.md)
-  * [Deficiency Notices](grading/deficiency_notices.md)
+  * [Deficiency Notices and absences](grading/deficiency_notices.md)
   * [Incomplete Grades](grading/incomplete_grades.md)
   * [Auditing Classes](grading/auditing_classes.md)
 * [NYU Classes and Alternatives](nyu_classes.md)
