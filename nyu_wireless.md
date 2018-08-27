@@ -14,5 +14,3 @@
   * MAGNET TAs
 * You should only use NYU guest until you get your NYU email or have guests visiting your class.
 
-
-

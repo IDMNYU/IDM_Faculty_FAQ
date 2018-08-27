@@ -1,3 +1,5 @@
+# IDM Faculty & Staff
+
 ## IDM Co-Directors
 
 [**R. Luke DuBois**](http://engineering.nyu.edu/people/r-luke-dubois), MAGNET 884, dubois@nyu.edu
@@ -12,13 +14,13 @@
 
 [**Dana Karwas**](http://engineering.nyu.edu/people/dana-karwas), MAGNET 878, dana.karwas@nyu.edu
 
-[**Benedetta Pinatella**] 
+\[**Benedetta Pinatella**\]
 
 [**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek), MAGNET 880, mls386@nyu.edu
 
 ## IDM Visiting Full-time Faculty
 
-[**Kathleen McDermott**]
+\[**Kathleen McDermott**\]
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
@@ -29,7 +31,6 @@
 [**Mitchell Joachim**](http://www.archinode.com/) \(NYU Gallatin\)
 
 [**Beth Noveck**](http://www.thegovlab.org/beth-noveck.html)\(NYU Tandon\)
-
 
 ## IDM Coordinator of Academic Programs
 
@@ -42,7 +43,7 @@
 
 ## IDM Technical Director
 
-[**Elton Kwok **](http://engineering.nyu.edu/people/elton-kwok), MAGNET 883, eltonkwok@nyu.edu
+[**Elton Kwok** ](http://engineering.nyu.edu/people/elton-kwok), MAGNET 883, eltonkwok@nyu.edu
 
 * IDM Hardware and Software
 * IDM Equipment Room
@@ -64,7 +65,7 @@
 
 [**Todd Bryant**](http://toddjbryant.com)
 
-[**Gus (Konstandinos) Chalkias**](https://www.youtube.com/watch?v=IgdXOebmvHo)
+[**Gus \(Konstandinos\) Chalkias**](https://www.youtube.com/watch?v=IgdXOebmvHo)
 
 [**Stephen Lawrence Clark**](http://twentycapitalletters.com)
 
@@ -90,7 +91,7 @@
 
 [**Claire Kearney-Volpe**](http://www.takinglifeseriously.com/index.html)
 
-[**Liz McEnaney**](http://mcenaney.nyc/) 
+[**Liz McEnaney**](http://mcenaney.nyc/)
 
 [**Touseef Mirza**](https://www.touseefmirza.com)
 

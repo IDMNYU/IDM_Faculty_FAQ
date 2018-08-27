@@ -12,7 +12,7 @@ The Graduate Colloquium is open to the public.
 
 For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 6pm in MAGNET's Lecture Hall.
 
-#### Past Graduate Colloquium Speakers
+### Past Graduate Colloquium Speakers
 
 **Spring 2017**
 
@@ -99,6 +99,4 @@ For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 
 * Carrie Mae Rose \| Eyebeam Artist in Residence
 * Roddy Schrock \| Eyebeam
 * Chris Woebken \| Eyebeam Artist in Residence
-
-
 
