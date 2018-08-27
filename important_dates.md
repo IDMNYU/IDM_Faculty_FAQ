@@ -10,7 +10,7 @@
   * Exam days : Monday, December 17 - Friday, December 21
   * Final grades due no later than Monday December 23
 * **Graduate Colloquium** Fall 2018
-  * Tuesdays 6-7pm, MAGNET Lecture Hall
+  * Tuesdays 6-7pm
 * **IDM Faculty Welcome** August 27 6:30pm -7pm @ MAGNET
 * **IDM Student Welcome** August 27 7pm - 9pm @ MAGNET
 
