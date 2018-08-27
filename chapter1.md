@@ -8,13 +8,11 @@ NYU's Media and Games Network
 
 Access MAGNET at NYU Tandon School of Engineering lobby; do not access via 2 MetroTech Center lobby \(revolving doors\).
 
-### MAGNET Manual \(will be forthcoming in shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive\)
+### The [MAGNET Manual](https://drive.google.com/open?id=0B3GbS-Wqk2AHVS05YVFHUDYxZG8) and[ floor plan ](https://drive.google.com/file/d/0B3GbS-Wqk2AHd25NbTZwYzBDNEU/view?usp=sharing)can be found in the shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
 
 ### MAGNET Floor Plan in shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
 
-* MAGNET Floor Plan 072013a.jpg
-
-### MAGNET Floor Managers, MAGNET 809
+### MAGNET Floor Manager, MAGNET 809
 
 **Tammy Nesmith**  
  Daytime Classroom and Facilities Manager  
@@ -41,5 +39,5 @@ Please see Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, in MAGNET 8
 
 ### IDM Adjunct Mailbox, MAGNET 837
 
-There is an "IDM adjuncts" mailbox in MAGNET's copier/mailroom, MAGNET.
+There is an "IDM adjuncts" mailbox in MAGNET's copier/mailroom.
 

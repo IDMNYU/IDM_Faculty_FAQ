@@ -14,13 +14,15 @@
 
 [**Dana Karwas**](http://engineering.nyu.edu/people/dana-karwas), MAGNET 878, dana.karwas@nyu.edu
 
-\[**Benedetta Pinatella**\]
+\*\*\*\*[**Benedetta Pinatella**](https://tisch.nyu.edu/about/directory/itp/1384276453)**,** benedetta.piantella@nyu.edu
 
 [**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek), MAGNET 880, mls386@nyu.edu
 
 ## IDM Visiting Full-time Faculty
 
-\[**Kathleen McDermott**\]
+**Kathleen McDermott**
+
+**Todd Bryant**
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
@@ -40,6 +42,13 @@
 * Room Reservations at MAGNET
 * Event Coordinator at MAGNET
 * Card Access to MAGNET
+
+## IDM Coordinator of Online Academic Programs
+
+\*\*\*\*[**Jenelle Woodrup**](https://engineering.nyu.edu/faculty/jenelle-woodrup), jenellewoodrup@nyu.edu
+
+* IDM Academic Advising
+* Primary contact for online courses
 
 ## IDM Technical Director
 
