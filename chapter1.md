@@ -14,10 +14,11 @@ Access MAGNET at NYU Tandon School of Engineering lobby; do not access via 2 Met
 
 ### MAGNET Floor Manager, MAGNET 809
 
-**Tammy Nesmith**  
- Daytime Classroom and Facilities Manager  
- tammy.nesmith@nyu.edu  
- O: 646-997-0740 C: 646-477-0862
+**Jhanele Green** - Day Floor Manager - [jg5626@nyu.edu](mailto:jg5626@nyu.edu)  
+646-997-0740
+
+**Michael Bernard** - Evening Floor Manager - [mab261@nyu.edu](mailto:mab261@nyu.edu)  
+ 646-997-0740
 
 ### MAGNET TAs
 
