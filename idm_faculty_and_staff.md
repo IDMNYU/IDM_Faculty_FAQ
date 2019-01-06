@@ -20,9 +20,9 @@
 
 ## IDM Visiting Full-time Faculty
 
-**Kathleen McDermott** kmcdermott@nyu.edu
+[**Kathleen McDermott**](http://www.kthartic.com/) kmcdermott@nyu.edu
 
-**Todd Bryant** tjb387@nyu.edu
+[**Todd Bryant**](http://toddjbryant.com/) tjb387@nyu.edu
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
