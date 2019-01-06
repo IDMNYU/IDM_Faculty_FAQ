@@ -10,7 +10,7 @@ description: What to do if a student is not performing to expectations
   * **Please do not wait until the end of the semester or worse AFTER the semester or once the problem has escalated.** 
   * **If in doubt, email Eric, myself, and Deanna \(minus the student\) anyway.**
 * I would email the student AND talk to the student \(if you can get a hold of them\) in person privately. You can always reserve the MAGNET conference room through Eric or use an empty classroom. Do this BEFORE the withdrawal date of the course so they have the option to withdraw without an academic penalty.
-* If you know a student is failing and you have notified them via email \(see above\), strongly encourage them to WITHDRAW from the course by the NYU withdrawal deadline. Look at the NYU Academic Calendar for this date each semester. This semester the date is **Monday, November 5, 2018**.
+* If you know a student is failing and you have notified them via email \(see above\), strongly encourage them to WITHDRAW from the course by the NYU withdrawal deadline. Look at the NYU Academic Calendar for this date each semester. This semester the date is **Friday, April 5, 2019**.
 * It's recommended that you adding the drop/add and withdrawal dates in your syllabus calendar.
 * If after doing all of the above and they deserve a failing grade, give the student the grade they deserve. We do not encourage grade inflation in IDM.
 
