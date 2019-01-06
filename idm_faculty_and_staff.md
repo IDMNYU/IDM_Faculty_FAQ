@@ -10,9 +10,9 @@
 
 [**Tega Brain**](http://tegabrain.com), MAGNET 878, brain@nyu.edu
 
-[**Elizabeth Hénaff**](http://elizabeth-henaff.net), MAGNET 874
+[**Elizabeth Hénaff**](http://elizabeth-henaff.net), MAGNET 874, ehenaff@nyu.edu
 
-[**Amy Hurst**]
+[**Amy Hurst**](https://amyhurst.com/), amyhurst@nyu.edu
 
 [**Benedetta Pinatella**](https://tisch.nyu.edu/about/directory/itp/1384276453), benedetta.piantella@nyu.edu
 
