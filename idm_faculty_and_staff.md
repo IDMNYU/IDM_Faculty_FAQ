@@ -52,7 +52,7 @@
 
 ## Assistant Program Administrator
 
-[**Ifeoluwa Lawal**], ifeoluwa.lawal@nyu.edu
+**Ifeoluwa Lawal**, ifeoluwa.lawal@nyu.edu
 
 * IDM Academic Advising
 * Social Media
