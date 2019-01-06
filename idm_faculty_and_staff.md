@@ -8,21 +8,21 @@
 
 ## IDM Full-time Faculty
 
-[**Tega Brain**](http://tegabrain.com), MAGNET 881, brain@nyu.edu
+[**Tega Brain**](http://tegabrain.com), MAGNET 878, brain@nyu.edu
 
 [**Elizabeth Hénaff**](http://elizabeth-henaff.net), MAGNET 874
 
-[**Dana Karwas**](http://engineering.nyu.edu/people/dana-karwas), MAGNET 878, dana.karwas@nyu.edu
+[**Amy Hurst**]
 
-\*\*\*\*[**Benedetta Pinatella**](https://tisch.nyu.edu/about/directory/itp/1384276453)**,** benedetta.piantella@nyu.edu
+[**Benedetta Pinatella**](https://tisch.nyu.edu/about/directory/itp/1384276453), benedetta.piantella@nyu.edu
 
 [**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek), MAGNET 880, mls386@nyu.edu
 
 ## IDM Visiting Full-time Faculty
 
-**Kathleen McDermott**
+**Kathleen McDermott** kmcdermott@nyu.edu
 
-**Todd Bryant**
+**Todd Bryant** tjb387@nyu.edu
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
@@ -34,7 +34,7 @@
 
 [**Beth Noveck**](http://www.thegovlab.org/beth-noveck.html)\(NYU Tandon\)
 
-## IDM Coordinator of Academic Programs
+## Academic Coordinator
 
 [**Eric Maiello**](http://engineering.nyu.edu/people/eric-maiello), MAGNET 879, eric.maiello@nyu.edu
 
@@ -43,12 +43,20 @@
 * Event Coordinator at MAGNET
 * Card Access to MAGNET
 
-## IDM Coordinator of Online Academic Programs
+## Online Academic Coordinator
 
-\*\*\*\*[**Jenelle Woodrup**](https://engineering.nyu.edu/faculty/jenelle-woodrup), jenellewoodrup@nyu.edu
+[**Jenelle Woodrup**](https://engineering.nyu.edu/faculty/jenelle-woodrup), jenellewoodrup@nyu.edu
 
 * IDM Academic Advising
 * Primary contact for online courses
+
+## Assistant Program Administrator
+
+[**Ifeoluwa Lawal**], ifeoluwa.lawal@nyu.edu
+
+* IDM Academic Advising
+* Social Media
+* Alumni relations
 
 ## IDM Technical Director
 
@@ -59,88 +67,4 @@
 * Craft Room 
 * IDM Faculty Lockers
 * Faculty Printing to MAGNET Copier
-
-## IDM Adjunct Faculty
-
-[**Kaho Abe**](http://kahoabe.net)
-
-[**Katie Adee**](http://katieadee.com)
-
-[**Todd Anderson**](https://toddwords.com)
-
-[**Shihan Anthony Barbee**](http://www.shihanbarbee.com/)
-
-[**Allison Berkoy**](http://www.berkoy.com)
-
-[**Todd Bryant**](http://toddjbryant.com)
-
-[**Gus \(Konstandinos\) Chalkias**](https://www.youtube.com/watch?v=IgdXOebmvHo)
-
-[**Stephen Lawrence Clark**](http://twentycapitalletters.com)
-
-[**Mark Denardo**](http://www.markdenardo.com)
-
-[**Arlene Ducao**](http://arlduc.org)
-
-[**Maria Dyer**](http://www.mariadyer.org)
-
-[**Erik Dykema**](http://upshawpllc.com/team/erik-dykema.html)
-
-[**Maria Rapetskaya**](http://www.riaskaya.com/)
-
-[**Diego Garcia**](http://radstronomical.com)
-
-[**Regine Gilbert**](http://reginegilbert.com)
-
-[**Kato Hideki**](http://www.katohideki.com)
-
-[**Matthew Hockenberry**](http://supplystudies.com/hock/)
-
-[**Gwen Hyman**](http://workshopteaching.com/about.html)
-
-[**Claire Kearney-Volpe**](http://www.takinglifeseriously.com/index.html)
-
-[**Liz McEnaney**](http://mcenaney.nyc/)
-
-[**Touseef Mirza**](https://www.touseefmirza.com)
-
-[**Caitlin Morris**](http://www.caitlinmorris.net)
-
-[**Brandon Montclare**](http://brandonmontclare.com)
-
-[**Daniel Perlin**](http://danielperlin.net)
-
-[**Toni Pizza**](http://www.tonithepizza.com)
-
-[**Domenick Propati**](http://www.kandppartners.com)
-
-[**Beth Rosenberg**](http://www.techkidsunlimited.org)
-
-[**Mike Rosenthal**](http://mikerosenthal.net)
-
-[**Alfredo Salazar-Caro**](http://www.salazarcaro.com)
-
-[**Michael Schumacher**](http://michaeljschumacher.com)
-
-[**Ayanna Seals**](https://wp.nyu.edu/aseals)
-
-[**Jesse Seegers**](http://jesseseegers.com)
-
-[**Dalit Shalom**](http://dalitshalom.com)
-
-[**Kevin Siwoff**](http://studioindefinit.com)
-
-[**Kat Sullivan**](http://katsully.com)
-
-[**Geoffrey Daniel Suthers**](http://www.geoffreysuthers.com/)
-
-[**Sally Thurer**](http://sallythurer.com)
-
-[**Jack Toolin**](http://jacktoolin.net)
-
-[**Chris Woebken**](https://chriswoebken.com/)
-
-## MD Adjunct Faculty
-
-[**Matthew Weise**](http://outsideyourheaven.blogspot.com/)
 
