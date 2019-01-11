@@ -9,5 +9,5 @@
   * Last day to withdraw from a course : Friday, April 5
   * Last day of classes : Monday, May 13
   * Final grades due no later than Tuesday, May 21
-* **IDM Faculty Orientation** Thursday, Jan 28 6pm -7pm @ MAGNET
+* **IDM Faculty Orientation** Wed, Jan 23 6pm -7pm @ MAGNET
 
