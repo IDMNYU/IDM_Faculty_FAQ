@@ -6,7 +6,7 @@
 2. Once your net ID has been activated, go to the 2 MetroTech Center lobby to have your NYU photo ID taken.
 3. **To get MAGNET card access,** once you have your NYU ID, please email Eric Maiello, IDM's Academic Programs Coordinator, eric.maiello@nyu.edu, your net ID & Univ ID, which are both located on the back of your NYU ID.
 4. You should’ve received your appointment letter which you would need to sign and email a copy back to Paulette.
-5. You will need to go to the HR office located at 15 MetroTech Center 6th floor with a copy of the appointment letter, so they may review your I9 documents.
+5. You will need to go to the HR office located at 1 MetroTech Center 19th floor with a copy of the appointment letter, so they may review your I9 documents.
 6. Once HR has reviewed the documents you should receive a yellow copy of the “Certification of Employment” which you will bring to Paulette's office located at 5 MetroTech Center 1st floor room LC 130.
 7. Once your appointment has been approved by HR in Workday you will be able to upload your tax documents in the link below
 8. You will need to go to: [https://www.nyu.edu/employees/hr-at-your-service/administrative-systemsandresources.html](https://www.nyu.edu/employees/hr-at-your-service/administrative-systemsandresources.html) for steps on how to upload your tax documents.
