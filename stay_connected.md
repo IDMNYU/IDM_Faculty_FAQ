@@ -10,11 +10,9 @@ During the Graduate Colloquium, all graduate students meet together for lecture 
 
 The Graduate Colloquium is open to the public.
 
-For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 6pm in MAGNET's Lecture Hall.
+For the Spring 2019 semester, our graduate colloquium will be held Mondays at 6pm.
 
 ### Past Graduate Colloquium Speakers
-
-**Spring 2017**
 
 * Karolina Sobecka \| Eyebeam Artist in Residence
 * Mimi Onuoha \| Eyebeam Artist in Residence
@@ -24,9 +22,6 @@ For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 
 * Macon Reed \| Eyebeam Artist in Residence
 * Caroline Woolard \| Eyebeam Artist in Residence
 * Amelia Marzec \| Eyebeam Artist in Residence
-
-**Fall 2016**
-
 * Sundar Raman \| Local Projects
 * Reed Loar \| DesignIt
 * Chrys Wu \| New York Times
@@ -35,34 +30,22 @@ For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 
 * Matt Boggie \| New York Times
 * Andy Moss \| Blackstone LaunchPad at NYU
 * Beth Rosenberg \| Tech Kids Unlimited
-
-**Spring 2016**
-
-* Mark Skwarek \| IDM
 * Debra Anderson \| Datavize
 * Dheerja Kaur \| The Skimm
 * Peter Olson \| IDEO
 * Ross Crooks \| Visage
-* Panel Discussion \|     Daily News Innovation Lab
+* Daily News Innovation Lab
 * Ryan Jacoby \| Machine.io
-* Dan Shiffman \| Processing 
+* Dan Shiffman \| Processing & ITP
 * Johann Rodriguez \| Hearst Labs
 * Bill Gaver \| Member of the CHI Academy
 * Meredeth Broussard \| NYU Journalism
-
-**Fall 2015**
-
 * Braden King \| IDM Artist in Residence / Sundance New Frontier Fellow
-* Marcial Godoy and Dexter \| Miranda of NYU Hemispheric Institute
 * Peter Boatwright \| CMU's Integrated Innovation Institute
 * Nancy Diniz \| Eyebeam Artist in Residence  
 * Pam Liou  \| Eyebeam Artist in Residence
 * Brendan Byrne + Bryan Ma \| Eyebeam Artist in Residence
 * Richard The + Frédéric Eyl \| Eyebeam Artist in Residence
-
-**Spring 2015**
-
-* Tega Brain \| Eyebeam Artist in Residence
 * Joanna Cheung \| Eyebeam Artist in Residence
 * Lisa Chung \| Eyebeam Artist in Residence
 * Michelle Dodson \| Integrated Visions
@@ -71,9 +54,6 @@ For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 
 * Brandon Montclare  \| Rocket Girl Comic Book
 * Joshue Ott & Kenneth Kirschner  \| Eyebeam Artist in Residence
 * Colin Self  \| Eyebeam Artist in Residence
-
-**Fall 2014**
-
 * Marcial Godoy & Dexter Miranda \| NYU's Hemispheric Institute of Performance and Politics
 * Aaron Henderson \| Video Artist
 * Carol Kim & Amit Gupta \| TenLegs
@@ -84,9 +64,6 @@ For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 
 * Nancy Nowacek \| Eyebeam Artist in Residence
 * Chris Jordan & George Ingalls \| Figment
 * Maddy Maxey \| The Crated
-
-**Spring 2014**
-
 * James Bridle \| Eyebeam Artist in Residence
 * Ingrid Burrington \| Eyebeam Artist in Residence
 * DuKode Studio \| Eyebeam Artist in Residence
@@ -99,4 +76,3 @@ For the Fall 2018 semester, our graduate colloquium will be held on Tuesdays at 
 * Carrie Mae Rose \| Eyebeam Artist in Residence
 * Roddy Schrock \| Eyebeam
 * Chris Woebken \| Eyebeam Artist in Residence
-
