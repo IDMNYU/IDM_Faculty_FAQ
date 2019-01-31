@@ -25,7 +25,6 @@
 * [NYU Resources](nyu_resources.md)
 * [FERPA](ferpa.md)
 * [Syllabus](syllabi.md)
-* [13 weeks vs 14 weeks classes](13_weeks_vs_14_weeks.md)
 * [Stay Connected](stay_connected.md)
 * [Affiliated Organizations](affiliated_organizations.md)
 
