@@ -3,9 +3,7 @@
 * [Important Dates](important_dates.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
-* [NYU Tandon School of Engineering](http://engineering.nyu.edu) \(formerly known as NYU Poly\)
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
-* [IDM \(Integrated Digital Media\)](http://idm.engineering.nyu.edu)
 * [IDM vs. Brooklyn Experimental Media Center \(BxMC\)](idm_vs_bxmc.md)
 * [MAGNET](chapter1.md)
   * Classrooms, Labs, Craft Space, Equipment room, MAGNET TA Station \(Computer Cables\), Copier and Supply Room, etc.
@@ -27,6 +25,10 @@
 * [Syllabus](syllabi.md)
 * [Stay Connected](stay_connected.md)
 * [Affiliated Organizations](affiliated_organizations.md)
+
+## General links
+* [NYU Tandon School of Engineering](http://engineering.nyu.edu)
+* [IDM \(Integrated Digital Media\)](http://idm.engineering.nyu.edu)
 
 ## Additional Documents can be found on the shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
 
