@@ -18,7 +18,7 @@
   * [Deficiency Notices](grading/deficiency_notices.md)
   * [Incomplete Grades](grading/incomplete_grades.md)
   * [Auditing Classes](grading/auditing_classes.md)
-* [NYU Classes and Alternatives](nyu_classes.md)
+* [NYU Learning Management System (LMS) and Alternatives](nyu_classes.md)
 * [IDM Tech Support](idm__bxmc_tech_support.md)
 * [Tandon Resources](soe_resources.md)
 * [NYU Resources](nyu_resources.md)
