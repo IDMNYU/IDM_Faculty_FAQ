@@ -6,7 +6,7 @@
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
 * [370 Jay Street](370Jay.md)
   * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
-* [2 MetroTech](chapter1.md)
+* [2 MetroTech](2MetroTech.md)
   * Labs, Craft Space
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Full-time Faculty & Staff](idm_faculty_and_staff.md)
@@ -19,7 +19,7 @@
   * [Incomplete Grades](grading/incomplete_grades.md)
   * [Auditing Classes](grading/auditing_classes.md)
 * [NYU Learning Management System (LMS) and Alternatives](nyu_classes.md)
-* [IDM Tech Support](idm__bxmc_tech_support.md)
+* [IDM Tech Support](idm_tech_support.md)
 * [Tandon Resources](soe_resources.md)
 * [NYU Resources](nyu_resources.md)
 * [FERPA](ferpa.md)
