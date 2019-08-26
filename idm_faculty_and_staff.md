@@ -2,27 +2,35 @@
 
 ## IDM Co-Directors
 
-[**R. Luke DuBois**](http://engineering.nyu.edu/people/r-luke-dubois), MAGNET 884, dubois@nyu.edu
+[**R. Luke DuBois**](http://engineering.nyu.edu/people/r-luke-dubois), dubois@nyu.edu
 
-[**Scott Fitzgerald**](http://engineering.nyu.edu/people/de-angela-duff), MAGNET 882, scott.fitzgerald@nyu.edu
+[**Scott Fitzgerald**](http://engineering.nyu.edu/people/scott-fitzgerald), scott.fitzgerald@nyu.edu
 
 ## IDM Full-time Faculty
 
-[**Tega Brain**](http://tegabrain.com), MAGNET 878, brain@nyu.edu
+[**Ahmed Ansari**](https://ahmedansari.com), aa7703@nyu.edu
 
-[**Elizabeth Hénaff**](http://elizabeth-henaff.net), MAGNET 874, ehenaff@nyu.edu
+[**Tega Brain**](http://tegabrain.com), brain@nyu.edu
+
+[**DeAngela Duff**](http://www.polishedsolid.com/), deangela.duff@nyu.edu
+
+[**Carla Gannis**](https://www.carlagannis.com), carlagannis@nyu.edu
+
+[**Elizabeth Hénaff**](http://elizabeth-henaff.net), ehenaff@nyu.edu
 
 [**Amy Hurst**](https://amyhurst.com/), amyhurst@nyu.edu
 
+[**Kathleen McDermott**](http://www.kthartic.com/) kmcdermott@nyu.edu
+
 [**Benedetta Pinatella**](https://tisch.nyu.edu/about/directory/itp/1384276453), benedetta.piantella@nyu.edu
 
-[**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek), MAGNET 880, mls386@nyu.edu
+[**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek),  mls386@nyu.edu
 
 ## IDM Visiting Full-time Faculty
 
-[**Kathleen McDermott**](http://www.kthartic.com/) kmcdermott@nyu.edu
+[**Regine Gilbert**](https://reginegilbert.com/), rg1508@nyu.edu
 
-[**Todd Bryant**](http://toddjbryant.com/) tjb387@nyu.edu
+[**Kathleen Sullivan**](http://katsully.com/), katsullivan@nyu.edu
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
@@ -34,14 +42,12 @@
 
 [**Beth Noveck**](http://www.thegovlab.org/beth-noveck.html)\(NYU Tandon\)
 
-## Academic Coordinator
+## Adminsitrative Director
 
-[**Eric Maiello**](http://engineering.nyu.edu/people/eric-maiello), MAGNET 879, eric.maiello@nyu.edu
+[**Eric Maiello**](http://engineering.nyu.edu/people/eric-maiello), eric.maiello@nyu.edu
 
 * IDM Academic Advising
-* Room Reservations at MAGNET
-* Event Coordinator at MAGNET
-* Card Access to MAGNET
+* Card Access
 
 ## Online Academic Coordinator
 
@@ -55,16 +61,15 @@
 **Ifeoluwa Lawal**, ifeoluwa.lawal@nyu.edu
 
 * IDM Academic Advising
+* Event planning
 * Social Media
 * Alumni relations
 
 ## IDM Technical Director
 
-[**Elton Kwok** ](http://engineering.nyu.edu/people/elton-kwok), MAGNET 883, eltonkwok@nyu.edu
+[**Elton Kwok** ](http://engineering.nyu.edu/people/elton-kwok), eltonkwok@nyu.edu
 
 * IDM Hardware and Software
 * IDM Equipment Room
-* Craft Room 
-* IDM Faculty Lockers
-* Faculty Printing to MAGNET Copier
+* Faculty Printing 
 
