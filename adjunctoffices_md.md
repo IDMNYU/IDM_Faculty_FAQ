@@ -2,9 +2,9 @@
 
 ## IDM Adjunct Space
 
-**IDM Adjunct Faculty Office \(MAGNET 875\), 2 MetroTech Center, 8th Floor**
+**IDM Adjunct Faculty Office \(370 Jay Room 344\)**
 
-For a faculty locker in the IDM adjunct area, contact Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883, for a key.
+This is a shared space with 4 desks, and bookshelves. You're welcome to use this as you see fit, though as it is a common space, we encourage you to not leave personal belongings there for an extended period of time (i.e. overnight, unattaneded for hours on end)
 
 ## MD \(Media Studies\) Adjunct Office
 
