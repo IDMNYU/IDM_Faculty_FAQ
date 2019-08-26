@@ -8,6 +8,6 @@
 * **Course Objectives**
 * **Grading and attendance policy** 
   * Be as specific as possible particularly with group projects.
-  * You can reference one of [DeaAngela Duff's](http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/dm997X_ms_thesis_syllabus.html) as a guide only. You can change your policies to suit your class.
+  * You can reference one of [DeAngela Duff's syllabi](http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/dm997X_ms_thesis_syllabus.html) as a guide. You can change your policies to suit your class.
 * [**Detailed Calendar \(week by week\)**](13_weeks_vs_14_weeks.md)
 
