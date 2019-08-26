@@ -1,8 +1,11 @@
 # Stay Connected
 
-## IDM's Official Presence on Facebook
+## Scoual Media
 
-Make sure to like [Brooklyn Experimental Media Center \(BXMC\)](https://www.facebook.com/BxmCPoly) on Facebook. This is the official presence of the Integrated Digital Media program on Facebook.
+* We have a tepidly functional [Facebook presence](https://www.facebook.com/BxmCPoly).
+* [Vimeo](https://vimeo.com/idmnyu)
+* [Instagram](https://www.instagram.com/idmnyu/)
+* [Twitter](https://twitter.com/IDMNYU)
 
 ## IDM's Graduate Colloquium
 
@@ -10,7 +13,7 @@ During the Graduate Colloquium, all graduate students meet together for lecture 
 
 The Graduate Colloquium is open to the public.
 
-For the Spring 2019 semester, our graduate colloquium will be held Mondays at 6pm.
+For the Fall 2019 semester, our graduate colloquium will be held Mondays at 6pm on the 2nd floor of 370 Jay Street in the auditorium.
 
 ### Past Graduate Colloquium Speakers
 
