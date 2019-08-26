@@ -4,7 +4,7 @@ TCS is Integrated Digital Media's parent department. Both are housed within [NYU
 ## [http://engineering.nyu.edu/academics/departments/tcs](http://engineering.nyu.edu/academics/departments/tcs)
 
 * **TCS Faculty Manual** 
-  * included in the shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
+  * [Direct link](https://drive.google.com/drive/folders/0B3GbS-Wqk2AHNUhHdkswemxud2c), but also included in the shared [IDM Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
 * **TCS Degree Programs**
   * [BS, MS, BS/MS, Integrated Digital Media](http://bxmc.poly.edu/#programs) \(IDM\)
   * [BS Sustainable Urban Environments](http://engineering.nyu.edu/academics/programs/sustainable-urban-environments-bs) \(SUE\)
