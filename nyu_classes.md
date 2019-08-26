@@ -1,6 +1,5 @@
-# NYU Classes and Alternatives
-
-## Not Required to Use
+# NYU LMS and Alternatives
+NYU's learnig manangement system is called [NYU Classes](https://newclasses.nyu.edu). You are not required to use it, but soe people find it helpful.
 
 * [Video tutorials and documentation](http://wikis.nyu.edu/display/nyuclasses/Training+and+Support)
 * [Intro to NYU Classes presentation](https://docs.google.com/presentation/d/1nAwlh-Iyu-VRTmAe3hniKgQ16NMpkUbDrgPAk6YSfw4/edit?usp=sharing)
@@ -13,17 +12,13 @@
 * Slack
 * Basecamp
 * Wordpress
-* Github \(I personally use a combo of Slack, Gitbook, and Github.\) 
+* Github
 * Gitbook
 * Google Groups
 
 ### Slack
 
-You can sign up for a free slack account. [http://slack.com](http://slack.com)
-
-### Basecamp
-
-I have an unlimited basecamp account if you’d like to use it.
+You can sign up for a free slack account. [http://slack.com](http://slack.com). 
 
 ### Github
 
@@ -33,5 +28,5 @@ We have an IDM github repository, [https://github.com/IDMNYU](https://github.com
 
 Wordpress on NYU Servers: [https://wp.nyu.edu](https://wp.nyu.edu)
 
-If you’d like to use wordpress on IDM servers, please contact Elton Kwok, eltonkwok@nyu.edu, MAGNET 883.
+If you’d like to use wordpress on IDM servers, please contact Elton Kwok, eltonkwok@nyu.edu
 
