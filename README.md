@@ -9,7 +9,7 @@
 * [2 MetroTech](chapter1.md)
   * Labs, Craft Space
 * [Adjunct Offices](adjunctoffices_md.md)
-* [IDM Faculty & Staff](idm_faculty_and_staff.md)
+* [IDM Full-time Faculty & Staff](idm_faculty_and_staff.md)
 * [TCS Class Funds](tcs_class_funds.md)
 * [Independent Studies](independent_studies.md)
 * [Class Info on Albert](class_roster.md)
