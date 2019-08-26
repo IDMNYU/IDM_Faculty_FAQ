@@ -4,9 +4,10 @@
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
-* [IDM vs. Brooklyn Experimental Media Center \(BxMC\)](idm_vs_bxmc.md)
+* [370 Jay Street](370Jay.md)
+  * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
 * [MAGNET](chapter1.md)
-  * Classrooms, Labs, Craft Space, Equipment room, MAGNET TA Station \(Computer Cables\), Copier and Supply Room, etc.
+  * Labs, Craft Space,
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Faculty & Staff](idm_faculty_and_staff.md)
 * [TCS Class Funds](tcs_class_funds.md)
@@ -18,7 +19,7 @@
   * [Incomplete Grades](grading/incomplete_grades.md)
   * [Auditing Classes](grading/auditing_classes.md)
 * [NYU Classes and Alternatives](nyu_classes.md)
-* [IDM / BxMC Tech Support](idm__bxmc_tech_support.md)
+* [IDM Tech Support](idm__bxmc_tech_support.md)
 * [Tandon Resources](soe_resources.md)
 * [NYU Resources](nyu_resources.md)
 * [FERPA](ferpa.md)
