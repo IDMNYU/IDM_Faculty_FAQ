@@ -6,8 +6,8 @@
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
 * [370 Jay Street](370Jay.md)
   * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
-* [MAGNET](chapter1.md)
-  * Labs, Craft Space,
+* [2 MetroTech](chapter1.md)
+  * Labs, Craft Space
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Faculty & Staff](idm_faculty_and_staff.md)
 * [TCS Class Funds](tcs_class_funds.md)
