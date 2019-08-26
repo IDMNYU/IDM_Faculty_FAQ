@@ -1,6 +1,6 @@
 # Syllabus
 
-## \(There is a template in the shared google drive folder, [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c).\)
+## \(There is a template in the shared google drive folder, [IDM Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c).\)
 
 ### Please contact scott.fitzgerald@nyu.edu if you do not have access.
 
@@ -8,6 +8,6 @@
 * **Course Objectives**
 * **Grading and attendance policy** 
   * Be as specific as possible particularly with group projects.
-  * You can reference one of [my syllabi](http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/dm997X_ms_thesis_syllabus.html) as a guide only. You can change your policies to suit your class.
+  * You can reference one of [DeaAngela Duff's](http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/dm997X_ms_thesis_syllabus.html) as a guide only. You can change your policies to suit your class.
 * [**Detailed Calendar \(week by week\)**](13_weeks_vs_14_weeks.md)
 
