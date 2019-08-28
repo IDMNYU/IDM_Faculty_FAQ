@@ -1,6 +1,6 @@
-# 2 MetroTech 8th Floor (prevously MAGNET)
+# 2 MetroTech 8th Floor (previously MAGNET)
 
-The 8th floor of 2 Metrotech Center was our previous home and we still maintain facilities there, particularly senior studio space and a number of spacialty labs. 
+The 8th floor of 2 Metrotech Center is our former home and we still maintain facilities there, particularly senior studio space and a number of specialty labs. 
 
 Access 2 Metrotech at NYU Tandon School of Engineering lobby; do not access via 2 MetroTech Center lobby \(revolving doors\).
 
