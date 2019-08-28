@@ -1,4 +1,4 @@
-# Introduction
+# IDM Faculty FAQ
 
 ## Notes
 * [Important Dates](important_dates.md)
