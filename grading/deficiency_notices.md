@@ -4,7 +4,7 @@ We take our student's behavior, work, and attendance seriously at IDM. In the pa
 
 NYU has a surprisingly good tutorial on how to use this system here : https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/albert-help/training/faculty/advisor-alerts.html
 
-If you don;t want to use the formal system in place by the university : 
+If you don't want to use the formal system in place by the university : 
 
 * **If a student is not doing well in your course for ANY reason, email the student ASAP, and cc: idmadvise@nyu.edu and Deanna Rayment, deanna.rayment@nyu.edu** (the Coordinator of Student Advocacy and Compliance for NYU Tandon School of Engineering.)
   * **Please do not wait to see if the student will improve.** 
