@@ -1,5 +1,6 @@
 # Introduction
 
+## Notes
 * [Important Dates](important_dates.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
