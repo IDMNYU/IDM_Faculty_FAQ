@@ -1,6 +1,6 @@
 # Stay Connected
 
-## Scoual Media
+## Social Media
 
 * We have a tepidly functional [Facebook presence](https://www.facebook.com/BxmCPoly).
 * [Vimeo](https://vimeo.com/idmnyu)
