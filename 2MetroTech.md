@@ -12,5 +12,4 @@ If you require access to 2 MetroTech, please email Eric Maiello, eric.maiello@ny
 * Black Box/Mocap room
 * Holodeck
 * Sound Studio
-* fabrication space (laser cutter, drill press, electronics fabrication)
 * senior studios
