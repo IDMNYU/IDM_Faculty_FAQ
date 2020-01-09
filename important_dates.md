@@ -1,13 +1,12 @@
-# Important Dates - Spring 2019
+# Important Dates - Spring 2020
 
 * [**NYU Academic Calendar**](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html)
-  * First day of classes : Tuesday, Sept 3
-  * Last day of Drop/Add : Mon, Sept 16
-  * No classes : Monday, October 14
-  * Classes run on a Monday schedule : Tuesday, October 15
-  * Midterm grades due (undergrads only): Monday, November 4
-  * Last day to withdraw from a course : Monday, November 4
-  * No classes : Wednesday, November 27 - Friday, November 2
-  * Last day of classes : Friday, Dec 13
-  * Final grades due no later than Saturday, December 21
-* **IDM Faculty Orientation** Wed, Aug 28 7pm - 830pm @ 370 Jay Street
+  * First day of classes : Mon, Jan 27
+  * Last day of Drop/Add : Sun, Feb 9
+  * No classes : Mon, Feb 17
+  * Spring break, no classes : March 16-22
+  * Midterm grades due (undergrads only): Fri, April 3
+  * Last day to withdraw from a course : Fri, April 3
+  * Last day of classes : Mon, May 11
+  * Final grades due no later than Tues, May 19
+* **IDM Faculty Orientation** Thurs, Jan 23 6:30pm - 8pm @ 370 Jay Street
