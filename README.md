@@ -9,7 +9,7 @@
 * [370 Jay Street](370Jay.md)
   * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
 * [2 MetroTech](2MetroTech.md)
-  * Labs, Craft Space
+  * Specialty Labs
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Full-time Faculty & Staff](idm_faculty_and_staff.md)
 * [TCS Class Funds](tcs_class_funds.md)
@@ -31,15 +31,4 @@
 * [NYU Tandon School of Engineering](http://engineering.nyu.edu)
 * [IDM \(Integrated Digital Media\)](http://idm.engineering.nyu.edu)
 
-## Additional Documents can be found on the shared [IDM & MD Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
-
-### Please contact scott.fitzgerald@nyu.edu if you do not have access.
-
-* IDM-modified Syllabus Template \(google doc or word doc\)
-* TCS Faculty manual \(word doc\)
-* MAGNET Packet 
-* MAGNET Floor Plan \(jpg\)
-* MetroTech Area Map \(jpg\)
-* Overview of Tandon's Student Resources and Services \(pdf\)
-* Bern Dibner LIbrary \| NYU Tandon's Library \(pdf\)
-
+## Additional Documents can be found in the [IDM Faculty Docs](https://drive.google.com/drive/folders/1LSAL0-JkUvCeaEEnBFLSszpnENd_aGxd?usp=sharing) folder on Google Drive
