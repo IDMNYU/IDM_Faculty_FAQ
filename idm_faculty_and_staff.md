@@ -46,24 +46,23 @@
 
 [**Eric Maiello**](http://engineering.nyu.edu/people/eric-maiello), eric.maiello@nyu.edu
 
-* IDM Academic Advising
+* IDM Academic Advising (grad and undergrad)
 * Card Access
 
 ## Online Academic Coordinator
 
 [**Jenelle Woodrup**](https://engineering.nyu.edu/faculty/jenelle-woodrup), jenellewoodrup@nyu.edu
 
-* IDM Academic Advising
+* IDM Academic Advising (grad and undergrad)
 * Primary contact for online courses
 
 ## Assistant Program Administrator
 
 **Ifeoluwa Lawal**, ifeoluwa.lawal@nyu.edu
 
-* IDM Academic Advising
+* IDM Academic Advising (undergrad)
 * Event planning
 * Social Media
-* Alumni relations
 
 ## Technical Director
 
