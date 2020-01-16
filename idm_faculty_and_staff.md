@@ -65,11 +65,16 @@
 * Social Media
 * Alumni relations
 
-## IDM Technical Director
+## Technical Director
 
 [**Elton Kwok** ](http://engineering.nyu.edu/people/elton-kwok), eltonkwok@nyu.edu
 
-* IDM Hardware and Software
+* IDM Software & network
 * IDM Equipment Room
 * Faculty Printing 
 
+## Harware Technician
+
+[**Gabriella Cammarata** ], cammarata@nyu.edu
+
+* IDM Hardware
