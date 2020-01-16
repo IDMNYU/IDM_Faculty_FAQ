@@ -13,7 +13,7 @@ During the Graduate Colloquium, all graduate students meet together for lecture 
 
 The Graduate Colloquium is open to the public.
 
-For the Fall 2019 semester, our graduate colloquium will be held Mondays at 6pm on the 2nd floor of 370 Jay Street in the auditorium.
+For the Spring 2020 semester, our graduate colloquium will be held Mondays at 5pm on the 3nd floor of 370 Jay Street in Studio B.
 
 ### Past Graduate Colloquium Speakers
 
