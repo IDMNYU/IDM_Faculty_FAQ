@@ -75,6 +75,6 @@
 
 ## Harware Technician
 
-[**Gabriella Cammarata** ], cammarata@nyu.edu
+**Gabriella Cammarata**, cammarata@nyu.edu
 
 * IDM Hardware
