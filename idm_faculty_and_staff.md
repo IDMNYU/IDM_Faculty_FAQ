@@ -73,7 +73,7 @@
 * IDM Equipment Room
 * Faculty Printing 
 
-## Harware Technician
+## Hardware Technician
 
 **Gabriella Cammarata**, cammarata@nyu.edu
 
