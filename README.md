@@ -1,4 +1,3 @@
-<a name="head"></a>
 # IDM Faculty FAQ
 
 ## Notes
@@ -10,6 +9,7 @@
   * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
 * [2 MetroTech](2MetroTech.md)
   * Specialty Labs
+* [Student Insurance](insurance.md)
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Full-time Faculty & Staff](idm_faculty_and_staff.md)
 * [TCS Class Funds](tcs_class_funds.md)
