@@ -4,9 +4,9 @@ TCS is Integrated Digital Media's parent department. Both are housed within [NYU
 ## [http://engineering.nyu.edu/academics/departments/tcs](http://engineering.nyu.edu/academics/departments/tcs)
 
 * **TCS Faculty Manual** 
-  * [Direct link](https://drive.google.com/drive/folders/0B3GbS-Wqk2AHNUhHdkswemxud2c), but also included in the shared [IDM Faculty Q&A Docs](https://drive.google.com/open?id=0B3GbS-Wqk2AHNUhHdkswemxud2c) folder on Google Drive
+  * [Direct link](https://drive.google.com/drive/folders/0B3GbS-Wqk2AHNUhHdkswemxud2c)
 * **TCS Degree Programs**
-  * [BS, MS, BS/MS, Integrated Digital Media](http://bxmc.poly.edu/#programs) \(IDM\)
+  * [BS, MS, BS/MS, Integrated Digital Media](http://idm.engineering.nyu.edu) \(IDM\)
   * [BS Sustainable Urban Environments](http://engineering.nyu.edu/academics/programs/sustainable-urban-environments-bs) \(SUE\)
   * [BS Science and Technology Studies](http://engineering.nyu.edu/academics/programs/science-and-technology-studies-bs) \(STS\)
 * **TCS also offers general humanities and social sciences courses for the School of Engineering.**
@@ -16,6 +16,5 @@ TCS is Integrated Digital Media's parent department. Both are housed within [NYU
   * [Paulette Bancroft](http://engineering.nyu.edu/people/paulette-bancroft), pbancrof@nyu.edu, TCS Administrative Assistant 
   * [Krysta Battersby](http://engineering.nyu.edu/people/krysta-battersby), kab629@nyu.edu, TCS Administrative Director
 * **TCS Faculty Meetings**
-  * TCS faculty meetings are open to adjunct faculty, but adjuncts are not required to attend.
-  * TCS faculty meetings are generally once a month.
+  * Monthly TCS faculty meetings are open to adjunct faculty, but adjuncts are not required to attend.
 
