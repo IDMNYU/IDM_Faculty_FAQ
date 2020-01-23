@@ -38,8 +38,6 @@
 
 [**Anita Perr**](http://steinhardt.nyu.edu/faculty/Anita_Perr) \(Steinhardt's Occupational Therapy\)
 
-[**Mitchell Joachim**](http://www.archinode.com/) \(NYU Gallatin\)
-
 [**Beth Noveck**](http://www.thegovlab.org/beth-noveck.html)\(NYU Tandon\)
 
 ## Adminsitrative Director
