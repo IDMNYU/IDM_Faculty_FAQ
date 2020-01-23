@@ -1,6 +1,8 @@
 # TCS Class Funds
 
-The TCS Department can provide funds to support TCS \(including Integrated Digital Media\) courses, **up to $300 per class.** Funds can be used for field trips, class activities, food, guest lecturers, etc. Funds cannot be used for books or equipment.
+The TCS Department can provide funds to support TCS \(including Integrated Digital Media\) courses, **up to $300 per class.** Funds can be used for field trips, class activities, food, guest lecturers, etc. Funds cannot be used for books, equipment, paying for a sub, etc.
+
+You must apply for funds before April 1. It's recommended to do it at the begimnning of the semester before the funds are cut off. https://docs.google.com/forms/d/e/1FAIpQLSdH3bWurEYXQPw-BKDbmMY7p2o0nQatNQj2jPh-6jgmMvkeTg/viewform
 
 Paulette Bancroft may or may not be able to charge a field trip in advance. If she can not, you can be reimbursed.
 
@@ -14,4 +16,3 @@ Paulette Bancroft may or may not be able to charge a field trip in advance. If s
 * specifically state you'd like to use your **TCS Class Funds** for a guest lecturer.
 
 Paulette, will subsequently send a W9 to the guest so that they can receive the stipend. If they are already employed by NYU, a W9 is not necessary.
-
