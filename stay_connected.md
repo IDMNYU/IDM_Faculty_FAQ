@@ -3,6 +3,7 @@
 ## Social Media
 
 * We have a tepidly functional [Facebook presence](https://www.facebook.com/BxmCPoly).
+* [Github](https://github.com/IDMNYU) - you can be added to the IDM github group if you wish
 * [Vimeo](https://vimeo.com/idmnyu)
 * [Instagram](https://www.instagram.com/idmnyu/)
 * [Twitter](https://twitter.com/IDMNYU)
