@@ -2,6 +2,9 @@
 
 ## Notes
 * [Important Dates](important_dates.md)
+* [Teaching in the pandemic](covid_resources.md)
+  * [Methods of instruction](method_of_instruction.md)
+  * [Get on campus](IRL_Covid_reqs.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
