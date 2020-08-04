@@ -72,3 +72,4 @@
 **Gabriella Cammarata**, cammarata@nyu.edu
 
 * IDM Hardware
+* Protolab and fabrication management 
