@@ -6,6 +6,7 @@
 
 [**Scott Fitzgerald**](http://engineering.nyu.edu/people/scott-fitzgerald), scott.fitzgerald@nyu.edu
 
+
 ## IDM Full-time Faculty
 
 [**Ahmed Ansari**](https://ahmedansari.com), aa7703@nyu.edu
@@ -37,21 +38,22 @@
 
 [**Beth Noveck**](http://www.thegovlab.org/beth-noveck.html)\(NYU Tandon\)
 
-## Adminsitrative Director
+## IDM Staff
+### Adminsitrative Director
 
 [**Eric Maiello**](http://engineering.nyu.edu/people/eric-maiello), eric.maiello@nyu.edu
 
 * IDM Academic Advising (grad and undergrad)
 * Card Access
 
-## Online Academic Coordinator
+### Online Academic Coordinator
 
 [**Jenelle Woodrup**](https://engineering.nyu.edu/faculty/jenelle-woodrup), jenellewoodrup@nyu.edu
 
 * IDM Academic Advising (grad and undergrad)
 * Primary contact for online courses
 
-## Assistant Program Administrator
+### Assistant Program Administrator
 
 **Kazi Rahman**, kar424@nyu.edu
 
@@ -59,7 +61,7 @@
 * Event planning
 * Social Media
 
-## Technical Director
+### Technical Director
 
 [**Elton Kwok** ](http://engineering.nyu.edu/people/elton-kwok), eltonkwok@nyu.edu
 
@@ -67,9 +69,52 @@
 * IDM Equipment Room
 * Faculty Printing 
 
-## Studio Research Coordinator
+### Studio Research Coordinator
 
 **Gabriella Cammarata**, cammarata@nyu.edu
 
 * IDM Hardware
 * Protolab and fabrication management 
+
+
+## IDM Adjunct Faculty
+
+* James Ayers
+* Shihan Barbee
+* Katherine Bennett
+* Nicola Cipani
+* Steph Clark
+* Luca Damasco
+* Maria Dyer
+* Erik Dykema
+* Diego Garcia
+* Cesar Guevara
+* David Haines
+* Vanessa Harden
+* Becky James
+* Hideki Kato
+* Nick Katsivelos
+* Rebecca Leopold
+* Melody Loveless
+* Touseef Mirza
+* Krishan Mistry
+* Camila Morales
+* Alex Nathanson
+* Tim O'Keefe
+* Monica Panzarino
+* Lauren Petty
+* Toni Pizza
+* Matthew Rader
+* Effie Rieper
+* Leah Roh
+* Beth Rosenberg
+* Michael Schumacher
+* Jesse Seegers
+* Dalit Shalom
+* Kevin Siwoff
+* Kat Sullivan
+* Dan Taeyoung
+* Sally Thurer
+* Jack Toolin
+* Lillian Warner
+* Matthew Weise
