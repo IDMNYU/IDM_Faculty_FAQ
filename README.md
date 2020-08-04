@@ -15,7 +15,7 @@
 * [Student Insurance](insurance.md)
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Full-time Faculty & Staff](idm_faculty_and_staff.md)
-* [TCS Class Funds](tcs_class_funds.md)
+* [Class Funds](class_funds.md)
 * [Albert](grading/albert_roster__grading.md)
   * [Deficiency Notices](grading/deficiency_notices.md)
   * [Class Info on Albert](class_roster.md)
