@@ -1,5 +1,3 @@
-Teaching in the time of COVID-19 requires even more patience and dedication than usual. We need to be compassionate, work in multiple modalities, and be flexible in ways that were competely foreign to us at the beginning of this calendar year. We will be working on-campus / online / in a hybrid format, and with students scattered aroudn the globe in time zones with different needs and capacities. There will not be free form access to the labs and shops, we will have to work in ways that are safe, and not necessarily in-line with how we are accustomed to handling our classes. That said, we will make the best of this, and I know you'll all do exceptionally well.
-
 # Teaching modalities
 We have three instructional methods this semester. If you are unsure what method you are doing, check Albert https://albert.nyu.edu,  If you're still not sure, contact either Scott or Eric.
 
