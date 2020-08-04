@@ -84,7 +84,7 @@
 * [Katherine Bennett](https://www.katherinebennett.net)
 * [Steph Clark](https://twentycapitalletters.com)
 * [Luca Damasco](https://www.linkedin.com/in/luca-damasco/)
-* [Maria Dyer[(http://mariadyer.co)
+* [Maria Dyer](http://mariadyer.co)
 * [Erik Dykema](https://www.linkedin.com/in/erikdykema/)
 * [Diego Garcia](http://radstronomical.com)
 * [Cesar Guevara](https://www.cesarcgart.com)
