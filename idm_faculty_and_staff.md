@@ -16,6 +16,8 @@
 
 [**Carla Gannis**](https://www.carlagannis.com), carlagannis@nyu.edu
 
+[**Regine Gilbert**](https://reginegilbert.com/), rg1508@nyu.edu
+
 [**Elizabeth Hénaff**](http://elizabeth-henaff.net), ehenaff@nyu.edu
 
 [**Amy Hurst**](https://amyhurst.com/), amyhurst@nyu.edu
@@ -26,11 +28,6 @@
 
 [**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek),  mls386@nyu.edu
 
-## IDM Visiting Full-time Faculty
-
-[**Regine Gilbert**](https://reginegilbert.com/), rg1508@nyu.edu
-
-[**Kathleen Sullivan**](http://katsully.com/), katsullivan@nyu.edu
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
@@ -56,9 +53,9 @@
 
 ## Assistant Program Administrator
 
-**Ifeoluwa Lawal**, ifeoluwa.lawal@nyu.edu
+**Kazi Rahman**, kar424@nyu.edu
 
-* IDM Academic Advising (undergrad)
+* IDM Academic Advising (underggraduate transfer students)
 * Event planning
 * Social Media
 
@@ -70,7 +67,7 @@
 * IDM Equipment Room
 * Faculty Printing 
 
-## Hardware Technician
+## Studio Research Coordinator
 
 **Gabriella Cammarata**, cammarata@nyu.edu
 
