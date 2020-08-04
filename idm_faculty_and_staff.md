@@ -2,9 +2,9 @@
 
 ## IDM Co-Directors
 
-[**R. Luke DuBois**](http://engineering.nyu.edu/people/r-luke-dubois), dubois@nyu.edu
+[**R. Luke DuBois**](http://lukedubois.com), dubois@nyu.edu
 
-[**Scott Fitzgerald**](http://engineering.nyu.edu/people/scott-fitzgerald), scott.fitzgerald@nyu.edu
+[**Scott Fitzgerald**](http://heek.in), scott.fitzgerald@nyu.edu
 
 
 ## IDM Full-time Faculty
@@ -79,42 +79,40 @@
 
 ## IDM Adjunct Faculty
 
-* James Ayers
-* Shihan Barbee
-* Katherine Bennett
-* Nicola Cipani
-* Steph Clark
-* Luca Damasco
-* Maria Dyer
-* Erik Dykema
-* Diego Garcia
-* Cesar Guevara
-* David Haines
-* Vanessa Harden
-* Becky James
-* Hideki Kato
-* Nick Katsivelos
-* Rebecca Leopold
-* Melody Loveless
-* Touseef Mirza
-* Krishan Mistry
-* Camila Morales
-* Alex Nathanson
-* Tim O'Keefe
-* Monica Panzarino
-* Lauren Petty
-* Toni Pizza
-* Matthew Rader
-* Effie Rieper
-* Leah Roh
-* Beth Rosenberg
-* Michael Schumacher
-* Jesse Seegers
-* Dalit Shalom
-* Kevin Siwoff
-* Kat Sullivan
-* Dan Taeyoung
-* Sally Thurer
-* Jack Toolin
-* Lillian Warner
-* Matthew Weise
+* [James Ayers](http://jfrancisayres.com)
+* [Shihan Barbee](https://shihanbarbee.com)
+* [Katherine Bennett](https://www.katherinebennett.net)
+* [Steph Clark](https://twentycapitalletters.com)
+* [Luca Damasco](https://www.linkedin.com/in/luca-damasco/)
+* [Maria Dyer[(http://mariadyer.co)
+* [Erik Dykema](https://www.linkedin.com/in/erikdykema/)
+* [Diego Garcia](http://radstronomical.com)
+* [Cesar Guevara](https://www.cesarcgart.com)
+* [Vanessa Harden](https://vanessaharden.com)
+* [Becky James](https://www.beckyjams.com)
+* [Kato Hideki](https://www.katohideki.com)
+* [Nick Katsivelos](https://www.linkedin.com/in/katsivelos/)
+* [Rebecca Leopold](https://www.rebeccaleopold.com)
+* [Melody Loveless](http://melody-loveless.squarespace.com)
+* [Touseef Mirza](https://www.touseefmirza.com)
+* [Krishan Mistry](http://www.poetmistry.com)
+* [Camila Morales](https://www.linkedin.com/in/camila-a-morales-7069b155/)
+* [Alex Nathanson](http://www.alexnathanson.com)
+* [Tim O'Keefe](http://www.timokeefefilmscore.com)
+* [Monica Panzarino](https://www.monicapanzarino.art)
+* [Lauren Petty](http://www.automaticrelease.org)
+* [Toni Pizza](https://www.toni.pizza/)
+* [Matthew Rader](https://www.reedandrader.com)
+* [Effie Rieper](http://www.ericrieper.com)
+* [Leah Roh](https://leah.fyi)
+* [Beth Rosenberg](https://www.techkidsunlimited.org/staff/beth-rosenberg/)
+* [Michael Schumacher](https://www.michaeljschumacher.com)
+* [Jesse Seegers](https://jesseseegers.com)
+* [Dalit Shalom](http://dalitshalom.com)
+* [Kevin Siwoff](http://kevinsiwoff.com)
+* [Kat Sullivan](http://katsully.com)
+* [Dan Taeyoung](https://dantaeyoung.com)
+* [Sally Thurer](https://sallythurer.com)
+* [Jack Toolin](http://www.jacktoolin.net)
+* [Lillian Warner](https://www.lillianwarner.com)
+* [Matthew Weise](http://www.matthewweise.com)
