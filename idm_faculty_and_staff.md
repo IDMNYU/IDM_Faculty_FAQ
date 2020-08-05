@@ -88,6 +88,7 @@
 * [Erik Dykema](https://www.linkedin.com/in/erikdykema/)
 * [Diego Garcia](http://radstronomical.com)
 * [Cesar Guevara](https://www.cesarcgart.com)
+* [David Haines](http://www.davidhaines.net)
 * [Vanessa Harden](https://vanessaharden.com)
 * [Becky James](https://www.beckyjams.com)
 * [Kato Hideki](https://www.katohideki.com)
