@@ -27,7 +27,14 @@ Physical classrooms are being equipped with Zoom carts that will have a camera, 
 # Resources
 There are a load of resources that have emerged in the last five months for online and remote pedagogy. Tandon and NYU have a couple places for instructional support as well.
 
+## Teaching/classroom resources
 - [NYU Tandon remote instruction assistance](https://engineering.nyu.edu/academics/support-services/faculty-innovation-fitl/remote-instruction) 
-- [NYU Sterinhardt remote instruction toolkit](https://sites.google.com/nyu.edu/nyu-steinhardt-toolkit/home) 
+- [NYU Steinhardt remote instruction toolkit](https://sites.google.com/nyu.edu/nyu-steinhardt-toolkit/home) 
 - [NYU Virtual Teaching Community](https://sites.google.com/nyu.edu/virtual-teaching-community/home) 
 - [NYU Central Remote Instruction Support](https://www.nyu.edu/faculty/teaching-and-learning-resources/remote-instruction-support.html) &mdash; How-to with Zoom, Classes, NYU Stream, etc. 
+- [NYU Teach Talks](https://sites.google.com/nyu.edu/virtual-teaching-community/teachtalks?authuser=0), a series of faculty-focused conversations about teaching at NYU. 
+-- [Video archive of the July 2020 Teach Talks conference](https://sites.google.com/nyu.edu/teachcamp/recordings-resources?authuser=1&pli=1)
+
+## General NYU resources
+- [NYU Returns](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
+- [Tandon's Covid communication summaries](https://engineering.nyu.edu/covid-19-communications-and-resources)
