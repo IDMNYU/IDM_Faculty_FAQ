@@ -33,7 +33,7 @@ There are a load of resources that have emerged in the last five months for onli
 - [NYU Virtual Teaching Community](https://sites.google.com/nyu.edu/virtual-teaching-community/home) 
 - [NYU Central Remote Instruction Support](https://www.nyu.edu/faculty/teaching-and-learning-resources/remote-instruction-support.html) &mdash; How-to with Zoom, Classes, NYU Stream, etc. 
 - [NYU Teach Talks](https://sites.google.com/nyu.edu/virtual-teaching-community/teachtalks?authuser=0), a series of faculty-focused conversations about teaching at NYU. 
--- [Video archive of the July 2020 Teach Talks conference](https://sites.google.com/nyu.edu/teachcamp/recordings-resources?authuser=1&pli=1)
+    - [Video archive of the July 2020 Teach Talks conference](https://sites.google.com/nyu.edu/teachcamp/recordings-resources?authuser=1&pli=1)
 
 ## General NYU resources
 - [NYU Returns](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
