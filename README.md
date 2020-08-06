@@ -14,7 +14,7 @@
 * [2 MetroTech](2MetroTech.md)
   * Specialty Labs
 * [Adjunct Offices](adjunctoffices_md.md)
-* [IDM Full-time Faculty & Staff](idm_faculty_and_staff.md)
+* [IDM Faculty & Staff](idm_faculty_and_staff.md)
 * [Class Funds](class_funds.md)
 * [Albert](grading/albert_roster__grading.md)
   * [Deficiency Notices](grading/deficiency_notices.md)
