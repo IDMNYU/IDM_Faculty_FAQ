@@ -13,6 +13,7 @@
   * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
 * [2 MetroTech](2MetroTech.md)
   * Specialty Labs
+* [Student Kits - Fall 2020](f2020Kits.md)
 * [Tandon Makerspace](makerspace.md)
 * [Software](software.md)
 * [Adjunct Offices](adjunctoffices_md.md)
