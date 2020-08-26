@@ -84,6 +84,7 @@
 * [Katherine Bennett](https://www.katherinebennett.net)
 * [Steph Clark](https://twentycapitalletters.com)
 * [Luca Damasco](https://www.linkedin.com/in/luca-damasco/)
+* [John Dilworth](https://johndilworth.com/)
 * [Maria Dyer](http://mariadyer.co)
 * [Erik Dykema](https://www.linkedin.com/in/erikdykema/)
 * [Diego Garcia](http://radstronomical.com)
@@ -117,3 +118,4 @@
 * [Jack Toolin](http://www.jacktoolin.net)
 * [Lillian Warner](https://www.lillianwarner.com)
 * [Matthew Weise](http://www.matthewweise.com)
+* [Winnie Yoe](https://winnieyoe.com/)
