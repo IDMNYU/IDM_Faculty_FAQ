@@ -10,4 +10,4 @@
   * Thanksgiving break : Thursday, Nov 26 & Friday, November 27
   * Last day of classes : Sunday, Dec 13
   * Final grades due no later than Wednesday, December 23
-* **IDM Faculty Orientation** TBD
+* **IDM Faculty Orientation** August 26, 2020 6-7pm
