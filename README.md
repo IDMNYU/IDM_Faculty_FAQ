@@ -13,6 +13,8 @@
   * Classrooms, Labs, Equipment room, Copier and Supply Room, etc.
 * [2 MetroTech](2MetroTech.md)
   * Specialty Labs
+* [Tandon Makerspace](makerspace.md)
+* [Software](software.md)
 * [Adjunct Offices](adjunctoffices_md.md)
 * [IDM Faculty & Staff](idm_faculty_and_staff.md)
 * [Class Funds](class_funds.md)
