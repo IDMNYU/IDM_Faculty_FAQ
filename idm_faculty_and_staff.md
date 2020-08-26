@@ -25,9 +25,9 @@
 
 [**Kathleen McDermott**](http://www.kthartic.com/) kmcdermott@nyu.edu
 
-[**Benedetta Pinatella**](https://tisch.nyu.edu/about/directory/itp/1384276453), benedetta.piantella@nyu.edu
+[**Benedetta Pinatella**](https://engineering.nyu.edu/faculty/benedetta-piantella), benedetta.piantella@nyu.edu
 
-[**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek),  mls386@nyu.edu
+[**Mark Skwarek**](http://markskwarek.com/),  mls386@nyu.edu
 
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
@@ -71,7 +71,7 @@
 
 ### Studio Research Coordinator
 
-**Gabriella Cammarata**, cammarata@nyu.edu
+[**Gabriella Cammarata**](https://www.gabriellacammarata.com/), cammarata@nyu.edu
 
 * IDM Hardware
 * Protolab and fabrication management 
