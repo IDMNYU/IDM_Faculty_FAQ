@@ -2,9 +2,9 @@
 
 ## IDM Co-Directors
 
-[**R. Luke DuBois**](http://lukedubois.com), dubois@nyu.edu
+[**R. Luke DuBois**](http://lukedubois.com), dubois@nyu.edu - Research Director
 
-[**Scott Fitzgerald**](http://heek.in), scott.fitzgerald@nyu.edu
+[**Scott Fitzgerald**](http://heek.in), scott.fitzgerald@nyu.edu - Academic Director
 
 
 ## IDM Full-time Faculty
