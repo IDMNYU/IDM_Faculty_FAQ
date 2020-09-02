@@ -95,6 +95,7 @@
 * [Nick Katsivelos](https://www.linkedin.com/in/katsivelos/)
 * [Rebecca Leopold](https://www.rebeccaleopold.com)
 * [Melody Loveless](http://melody-loveless.squarespace.com)
+* [Mandy Mandelstein](https://cargocollective.com/mandivision)
 * [Touseef Mirza](https://www.touseefmirza.com)
 * [Krishan Mistry](http://www.poetmistry.com)
 * [Camila Morales](https://www.linkedin.com/in/camila-a-morales-7069b155/)
