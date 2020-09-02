@@ -80,7 +80,6 @@
 ## IDM Adjunct Faculty
 
 * [James Ayers](http://jfrancisayres.com)
-* [Shihan Barbee](https://shihanbarbee.com)
 * [Katherine Bennett](https://www.katherinebennett.net)
 * [Steph Clark](https://twentycapitalletters.com)
 * [Luca Damasco](https://www.linkedin.com/in/luca-damasco/)
