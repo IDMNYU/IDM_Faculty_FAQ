@@ -2,7 +2,7 @@
 We have three instructional methods this semester. If you are unsure what method you are doing, check [Albert](https://albert.nyu.edu),  If you're still not sure, contact either Scott or Eric.
 
 - Online/Remote &mdash; this mode is similar to what we all did in the second half of the spring semester. 
-- On-campus &mdash; this is what we are accustomed to, but the classrooms will be larger. Only classes of 15 or less meet in this format. On the first day of class, your students will be asked to pick a seat and stay there for the remainder of the semster.
+- On-campus &mdash; this is what we are accustomed to, but the physcial classrooms will be larger. Only classes of 15 or less meet in this format. On the first day of class, your students will be asked to pick a seat and stay there for the remainder of the semster. _Even if you are teaching on-campus in person, you will still have a number of students who will be online._
 - Hybrid &mdash; this combines both of the other modes and has a weird twist. Your class will meet on campus, but you do not have to meet on campus every meeting. If your class has more than 15 students, you will not meet with all your students every class session. The expectation is that some students will show, and others will join remotely. There will be an app published by the university that will allow studnets to decide when they come to campus for class. Specifics of this are forthcomiong.
 
 # Seating & cohorts
