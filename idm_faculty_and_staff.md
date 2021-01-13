@@ -96,6 +96,7 @@
 * [Diego Garcia](http://radstronomical.com)
 * [Cesar Guevara](https://www.cesarcgart.com)
 * [Amanda George](https://www.amandageorge.com)
+* [Jessie Guy-Ryan](https://engineering.nyu.edu/staff/jessie-guy-ryan)
 * [David Haines](http://www.davidhaines.net)
 * [Vanessa Harden](https://vanessaharden.com)
 * [Claire Hentschker](http://www.clairesophie.com)
