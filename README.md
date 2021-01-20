@@ -4,7 +4,7 @@
 * [Important Dates](important_dates.md)
 * [Teaching in the pandemic](covid_resources.md)
   * [Methods of instruction](method_of_instruction.md)
-  * [Get on campus](IRL_Covid_reqs.md)
+  * [Covid testing and vaccination](IRL_Covid_reqs.md)
   * [NYU Learning Management System (LMS) and Alternatives](nyu_classes.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
