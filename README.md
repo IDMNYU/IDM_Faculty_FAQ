@@ -20,7 +20,7 @@
 * [IDM Faculty & Staff](idm_faculty_and_staff.md)
 * [Class Funds](class_funds.md)
 * [Albert](grading/albert_roster__grading.md)
-  * [Deficiency Notices](grading/deficiency_notices.md)
+  * [Deficiency Notices](grading/deficiency_notices.md) — aka what to do when a student stops showing up/ doesn't do the work/ I am generally concerned...
   * [Class Info on Albert](class_roster.md)
   * [Grading on Albert](grading/)
 * [Incomplete Grades](grading/incomplete_grades.md)
