@@ -19,7 +19,9 @@ Students in on-campus or hybrid courses need to choose a seat on the first day o
 ## Expectations
 We are expected to provide materials for students who may not be able to come to class. These accomodations are designed with student flexibility in mind. A student my be in a different time zone, unable to get a visa to the US, sick, caring for an ill relative, having issues connecting to the internet, etc etc etc. We need to make the same materials available to them that we make to the studnets who can attend. 
 
-You can ask studnets how they expect to attend class - will they be online or in-person. Students are being asked to pick one or the other, but this is subject to your discretion (ex - a remote student is in California taking care of their family until late Feb and then they come to NYC, quarantine for 2 weeks and then would like to come to class in-person - that's something I would allow).
+Faculty may request, via Deanna Rayment, that students who are supposed to be taking a course in a classroom do so. Students who wanted to participate at a distance or asynchronously would then need to obtain an excused absence for courses they are taking remotely that are 'on-campus'.
+
+You ought ask studnets how they expect to attend class - will they be online or in-person. Students are being asked to pick one or the other, but this is subject to your discretion (ex - a remote student is in California taking care of their family until late Feb and then they come to NYC, quarantine for 2 weeks and then would like to come to class in-person - that's something I would allow). Pleae be open about your expectations with the students.  
 
 *The bare minimum is that you record any class meetings and lectures and provide it to studnets who cannot make a synchonous class meeting.* This applies to online, hybrid, and on-campus sessions. Ideally, you will be able to provide students with an engaging course no matter how they are getting the information.
 
