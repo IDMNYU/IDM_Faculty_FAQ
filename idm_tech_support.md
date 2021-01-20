@@ -1,6 +1,7 @@
 # IDM Tech Support
 
-* First stop : speak with or email IDM's technical Director Elton Kwok. He made me promise to let everyone know he won't bite your head off. He's "reasonable". eltonkwok@nyu.edu
-* [http://bxmc.poly.edu/techsupport](http://bxmc.poly.edu/techsupport) \(web server access, wordpress, etc.\)
+* First stop for software/hardware/web space: email IDM's Technical Director Elton Kwok. eltonkwok@nyu.edu
+* First stop for lab or space use: email IDM's Studio Coordinator Gabriella Cammarata. cammarata@nyu.edu
+* [IDM Labs site](https://sites.google.com/nyu.edu/idmlabs/home)
+* [Teach support site for web server access, wordpress](http://bxmc.poly.edu/techsupport)
 * [Partial Equipment Room Inventory List](http://equipment.bxmc.poly.edu)
-* [Equipment Ordering Form](https://docs.google.com/forms/d/e/1FAIpQLSfpZlinB8m5fxHz-iMq3jqVYW-LtWna-LtdNiMiOZ_jsczLrg/viewform) This is reviewed weekly. There are no promises that we'll purchase everything you reuest, but we will seriously consider all requests.
