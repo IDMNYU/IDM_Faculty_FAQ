@@ -2,15 +2,12 @@
 
 *Previously*, the TCS Department provided up to $300 per class for field trips, class activities, food, guest lecturers, guest critics, etc. Thsi was not to be used for books, equipment, paying for a sub, etc. Starting late 2019, this was entriely offloaded to IDM. 
 
-With our budget for 2019/2020 comepletely unknown at this time, we cannot assume these funds will be avaiable. Once the semester begins, we will be able to suss out what sort of support we can provide. If you would like to be considered for this if available, pleae fill out this form as soon as possible : https://forms.gle/EiJJmNvUAx5iY9YD9
-
-**To request reimbursement following approval**, please provide any receipts with a description of what the funds were used for to Paulette Bancroft, pbancrof@nyu.edu and cc: shf220@nyu.edu. 
+Due to the pandemic, our budget for the 20/21 academic year was gutted and there are univeristy wide resitrcitions placed on what we are allowed to spend money on. While we are able to offer some funds, we cannot offer the same level of support we did in years past and _funding is limited only to guest speakers/critics_. If you would like to apply for available funds, please [fill out this form](https://forms.gle/JeRHf4t98wxq5hLe9) as soon as possible and notify Scott once you have done so.
 
 **If you have an approved guest lecturer**, after the lecture has taken place please email Scott, Paulette, and the guest lecturer with the following : 
-
 * the name of the guest, 
 * the guest's contact information,
 * the date of the class, 
 * the course number and name 
 
-Paulette, will subsequently send a W9 to the guest so that they can receive the stipend. If they are already employed by NYU, a W9 is not necessary.
+Paulette will subsequently send a W9 to the guest so that they can receive the honoraria. If they are already employed by NYU, a W9 is not necessary.
