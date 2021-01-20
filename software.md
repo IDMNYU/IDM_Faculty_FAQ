@@ -8,4 +8,4 @@ Generally, we will not purchase software for class/student use. That said, we do
 
 # Hardware
 
-We have a number of high-end 3D workstations int he XR lab. These computers are primarily for use by students in VR/AR/3D and Motion Capture classes. During the pandemic, we are offering remote access to these machines through a browser based interface. If your class requires this, please contact Scott and Elton.
+We have a number of high-end 3D workstations int he XR lab. These computers are primarily for use by students in VR/AR/3D and Motion Capture classes. During the pandemic, we are offering remote access to these machines through a browser based interface. If your class requires this, please contact Gabriella and Elton.
