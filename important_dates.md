@@ -9,7 +9,6 @@
   * Midterm grades due (undergrads only): Fri, April 2
   * No Classes: Mon, April 19
   * Last day to withdraw from a with a 'W' : Wed April 28
-  * Thanksgiving break : Thursday, Nov 26 & Friday, November 27
   * Last day of classes : Mon, May 10
   * Final grades due no later than Wednesday, May 19
 * **IDM Faculty Orientation** Jan 20, 2020 6-7:30pm
