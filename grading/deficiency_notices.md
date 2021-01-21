@@ -17,3 +17,5 @@ In addition to NYU Connect :
 * If after doing all of the above and they deserve a failing grade, give the student the grade they deserve.
 
 **If a student has an unexcused absence or excessive tardiness**, immediately after the missed class **email the student and cc: idmadvise@nyu.edu.** Please do not wait until the semester is winding down or after the problem has escalated. If in doubt, email us \(minus the student\) anyway. You can always raise a flag and/or commend a student in Albert too.
+
+The [Office of Student Success](https://www.nyu.edu/students/student-success.html) is an additonal resource you can point your students to if the need help that seems beyond your capacity. Encourgae students to reach out to studentsuccess@nyu.edu for assistance.
