@@ -1,14 +1,14 @@
-# Important Dates - Spring 2021
+# Important Dates - Fall 2021
 
 * [**NYU Academic Calendar**](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html)
-  * First day of classes : Thurs, Jan 28
-  * Last day of Drop/Add : Wed, Feb 10
-  * No Classes: Mon, Feb 15
-  * Classses meet on a Monday Schedule : Thurs, Feb 18
-  * No Classes: Fri, March 19
-  * Midterm grades due (undergrads only): Fri, April 2
-  * No Classes: Mon, April 19
-  * Last day to withdraw from a with a 'W' : Wed April 28
-  * Last day of classes : Mon, May 10
-  * Final grades due no later than Wednesday, May 19
-* **IDM Faculty Orientation** Jan 20, 2020 6-7:30pm
+  * First day of classes : Thurs, Sept 2
+  * No Classes (Labor Day) : Mon, Sept 6
+  * Last day of Drop/Add : Wed, Sept 15
+  * No Classes: Mon, Oct 11
+  * Classes meet on Monday Schedule: Tues, Oct 12
+  * Midterm grades due (undergrads only): Wed, Nov 3
+  * No Classes (Thanksgiving): Thurs & Fri, Nov 25 & 26
+  * Last day to withdraw with a 'W' : Mon, Dec 6
+  * Last day of classes : Tues, Dec 14
+  * Final grades due no later than Thurs, Dec 23
+* **IDM Faculty Orientation** Wed August 25, 2021 6:30-8:30pm
