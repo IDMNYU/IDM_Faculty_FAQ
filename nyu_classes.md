@@ -1,5 +1,7 @@
 # NYU LMS and Alternatives
-NYU's uses Brightspace as a learning manangement system . You are not required to use it, but some people find it helpful. NYU Classes has been retired and is no longer available. [Training and resources can be found on NYU's Academic Technology site](https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-lms-brightspace/faculty-training-lms-brightspace.html#start)
+[As of Fall 2021 NYU uses Brightspace](https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-lms-brightspace.html) as a learning manangement system. You are not required to use it, but some people find it helpful. NYU Classes has been retired and is no longer available. [Training and resources can be found on NYU's Academic Technology site](https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-lms-brightspace/faculty-training-lms-brightspace.html#start)
+
+[Login to your Brightspace LMS](https://brightspace.nyu.edu/) (NYU NetID required)
 
 ## Alternatives to NYU Classes
 
