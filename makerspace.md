@@ -1,4 +1,4 @@
-# Tandon's Makerspace is open for students in Spring 2021
+# Tandon's Makerspace is open for students in Fall 2021
 
 The MakerSpace will be open to students on campus for all prototyping needs. Reservations can be made on the [Makerspace website](http://makerspace.engineering.nyu.edu/) and are required for all trainings, machine use, and workspace, which will allow a safe density of users at all times. They have updated the training process to include a remote and in-person portion, to help users feel more confident when using the machines.  Refer to the [Training & Reservation page](http://makerspace.engineering.nyu.edu/training-and-reservations/) for more information. 
 
