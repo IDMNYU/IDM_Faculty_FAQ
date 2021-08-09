@@ -1,24 +1,20 @@
 # NYU LMS and Alternatives
-NYU's learning manangement system is called [NYU Classes](https://newclasses.nyu.edu). You are not required to use it, but some people find it helpful.
-
-* [Video tutorials and documentation](http://wikis.nyu.edu/display/nyuclasses/Training+and+Support)
-* [Intro to NYU Classes presentation](https://docs.google.com/presentation/d/1nAwlh-Iyu-VRTmAe3hniKgQ16NMpkUbDrgPAk6YSfw4/edit?usp=sharing)
-* [NYU Classes workshop schedule](http://engineering.nyu.edu/academics/support/fitl/training/workshop-schedule)
-* [Guide to Reusing Content in NYU Classes](https://docs.google.com/a/nyu.edu/document/d/1L3cHm2424Q8g5ZAz8lgJADOSSSPTBiZQHW2MCxe23rU/edit?usp=sharing)
-* [Requesting NYU guest access to NYU Classes](http://www.nyu.edu/servicelink/041212913432419)
+NYU's uses Brightspace as a learning manangement system . You are not required to use it, but some people find it helpful. NYU Classes has been retired and is no longer available. [Training and resources can be found on NYU's Academic Technology site](https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-lms-brightspace/faculty-training-lms-brightspace.html#start)
 
 ## Alternatives to NYU Classes
 
-* Slack
 * Basecamp
 * Wordpress
 * Github
 * Gitbook
 * Google Groups
 
-### Slack
+### Slack & Discord
 
 You can sign up for a free slack account. [http://slack.com](http://slack.com). 
+IDM has a Slack group for all faculty, you'll be added to the group soon if not already. 
+
+Some folks like to use Discord, and that's a-ok too.
 
 ### Github
 
