@@ -2,7 +2,7 @@
 
 ## IDM Co-Directors
 
-[**R. Luke DuBois**](http://lukedubois.com), dubois@nyu.edu - Research Director
+[**R. Luke DuBois**](http://lukedubois.com), dubois@nyu.edu - Research Director / TCS co-Chair
 
 [**Scott Fitzgerald**](http://heek.in), scott.fitzgerald@nyu.edu - Academic Director
 
@@ -32,11 +32,7 @@
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
-[**Anne-Laure Fayard**](http://engineering.nyu.edu/people/anne-laure-fayard) \(Tandon's Tech Management and Innovation\)
-
 [**Anita Perr**](http://steinhardt.nyu.edu/faculty/Anita_Perr) \(Steinhardt's Occupational Therapy\)
-
-[**Beth Noveck**](http://www.thegovlab.org/beth-noveck.html)\(NYU Tandon\)
 
 ## IDM Staff
 ### Adminsitrative Director
@@ -84,9 +80,12 @@
 * [James Ayers](http://jfrancisayres.com)
 * [Katherine Bennett](https://www.katherinebennett.net)
 * [Jenny Bee](https://jennybee.design)
+* [Billy Bennett](https://billybennett.tv)
 * [Todd Bryant](https://toddjbryant.com)
 * [Gus Chalkias]()
+* [Kathleen Chao](https://www.chaosidea.com)
 * [Steph Clark](https://twentycapitalletters.com)
+* [Andrew Cotter](http://thatcotter.github.io)
 * [Sarah Dahnke](http://www.sarahdahnke.com)
 * [Luca Damasco](https://www.linkedin.com/in/luca-damasco/)
 * [John Dilworth](https://johndilworth.com/)
@@ -104,6 +103,7 @@
 * [Kato Hideki](https://www.katohideki.com)
 * [James Hosken](https://jameshosken.com)
 * [Becky James](https://www.beckyjams.com)
+* [Casey Judge](https://www.acaciajudge.com/)
 * [Nick Katsivelos](https://www.linkedin.com/in/katsivelos/)
 * [Rebecca Leopold](https://www.rebeccaleopold.com)
 * [Melody Loveless](http://melody-loveless.squarespace.com)
@@ -111,6 +111,7 @@
 * [Touseef Mirza](https://www.touseefmirza.com)
 * [Krishan Mistry](http://www.poetmistry.com)
 * [Camila Morales](https://www.linkedin.com/in/camila-a-morales-7069b155/)
+* [Rebecca Naegele](http://rebeccanaegele.com)
 * [Alex Nathanson](http://www.alexnathanson.com)
 * [Tim O'Keefe](http://www.timokeefefilmscore.com)
 * [Monica Panzarino](https://www.monicapanzarino.art)
@@ -121,12 +122,14 @@
 * [Effie Rieper](http://www.ericrieper.com)
 * [Leah Roh](https://leah.fyi)
 * [Beth Rosenberg](https://www.techkidsunlimited.org/staff/beth-rosenberg/)
+* [Ksenya Samarskaya](http://www.samarskaya.com/)
 * [Michael Schumacher](https://www.michaeljschumacher.com)
 * [Jesse Seegers](https://jesseseegers.com)
 * [Dalit Shalom](http://dalitshalom.com)
 * [Jiwon Shin](http://jiwonshin.com)
 * [Kevin Siwoff](http://kevinsiwoff.com)
 * [Kat Sullivan](http://katsully.com)
+* [Hans Tammen](https://tammen.org/)
 * [Sam Tarjakian](https://dude837.com)
 * [Dan Taeyoung](https://dantaeyoung.com)
 * [Sally Thurer](https://sallythurer.com)
