@@ -1,5 +1,10 @@
 # IDM Faculty FAQ
 
+## TLDR Fall 2021
+Classes are expected to be on-campus unless prior arrangements were made. [All faculty, students, and staff must submit proof of vaccination for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). Masks are required at all times on campus unless you're in a private office. No eating or drinking allowed except in designated areas.
+
+Some students will be arriving late, some will be remote for the entire semester, but this will be a small number overall.
+
 ## Notes
 * [Important Dates](important_dates.md)
 * [Teaching in the pandemic](covid_resources.md)
