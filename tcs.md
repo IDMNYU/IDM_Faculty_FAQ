@@ -6,15 +6,15 @@ TCS is Integrated Digital Media's parent department. Both are housed within [NYU
 * **TCS Faculty Manual** 
   * [Direct link](https://drive.google.com/drive/folders/0B3GbS-Wqk2AHNUhHdkswemxud2c)
 * **TCS Degree Programs**
-  * [BS, MS, BS/MS, Integrated Digital Media](http://idm.engineering.nyu.edu) \(IDM\)
+  * [BS, MS, BS/MS, Integrated Design & Media](http://idm.engineering.nyu.edu) \(IDM\)
   * [BS Sustainable Urban Environments](http://engineering.nyu.edu/academics/programs/sustainable-urban-environments-bs) \(SUE\)
   * [BS Science and Technology Studies](http://engineering.nyu.edu/academics/programs/science-and-technology-studies-bs) \(STS\)
 * **TCS also offers general humanities and social sciences courses for the School of Engineering.**
-  * The current media studies courses fall under the CAM \(Culture, Arts, and Media\) cluster of courses which TCS offers. Jean Gallagher, jg2835@nyu.edu, is technically the head of CAM courses. However, the media studies courses are degree requirements for IDM students, but any student can take them.
+  * The current media studies courses fall under the CAM \(Culture, Arts, and Media\) cluster of courses which TCS offers. The media studies courses are degree requirements for IDM students, but any student can take them.
 * **TCS Faculty & Staff**
-  * [Jonathan Soffer](http://engineering.nyu.edu/people/jonathan-m-soffer), jonathan.soffer@nyu.edu, TCS Department Chair
+  * [Jean Gallagher](https://engineering.nyu.edu/faculty/jean-gallagher), jg2835@nyu.edu, TCS Department co-Chair
+  * [Tracy Figueroa](https://engineering.nyu.edu/staff/tracy-figueroa), tf34@nyu.edu, TCS Administrative Director
   * [Paulette Bancroft](http://engineering.nyu.edu/people/paulette-bancroft), pbancrof@nyu.edu, TCS Administrative Assistant 
-  * [Krysta Battersby](http://engineering.nyu.edu/people/krysta-battersby), kab629@nyu.edu, TCS Administrative Director
 * **TCS Faculty Meetings**
   * Monthly TCS faculty meetings are open to adjunct faculty, but adjuncts are not required to attend.
 
