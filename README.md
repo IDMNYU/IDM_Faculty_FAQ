@@ -39,6 +39,8 @@ Some students will be arriving late, some will be remote for the entire semester
 
 ## General links
 * [NYU Tandon School of Engineering](http://engineering.nyu.edu)
-* [IDM \(Integrated Digital Media\)](http://idm.engineering.nyu.edu)
+* [IDM \(Integrated Design & Media\)](http://idm.engineering.nyu.edu)
+* [IDM Insta](https://instagram.com/idmnyu)
+* [IDM Labs Insta](https://instagram.com/idmlabs)
 
 ## Additional Documents can be found in the [IDM Faculty Docs](https://drive.google.com/drive/folders/1LSAL0-JkUvCeaEEnBFLSszpnENd_aGxd?usp=sharing) folder on Google Drive
