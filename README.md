@@ -10,7 +10,7 @@ Some students will be arriving late, some will be remote for the entire semester
 * [Teaching in the pandemic](covid_resources.md)
   * [Methods of instruction](method_of_instruction.md)
   * [Covid testing and vaccination](IRL_Covid_reqs.md)
-  * [NYU Learning Management System (LMS) and Alternatives](nyu_classes.md)
+* [NYU Learning Management System (LMS) and Alternatives](nyu_classes.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
