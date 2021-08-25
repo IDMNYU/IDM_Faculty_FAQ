@@ -11,4 +11,4 @@
   * Last day to withdraw with a 'W' : Mon, Dec 6
   * Last day of classes : Tues, Dec 14
   * Final grades due no later than Thurs, Dec 23
-* **IDM Faculty Orientation** Wed August 25, 2021 6:30-8:30pm
+* **IDM Faculty Orientation** Thurs, Aug 26th 7-8:30pm
