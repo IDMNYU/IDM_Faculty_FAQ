@@ -17,6 +17,8 @@ If you are ill, please [use this secure form to alert NYU Health and Wellness](h
 ## Reporting non-compliance
 If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
 
+If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave and reporting them to Deanna Rayment at [deanna.rayment@nyu.edu](mailto:deanna.rayment@nyu.edu).
+
 ## Field trips
 We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
 
@@ -43,6 +45,9 @@ Just as in 'regular' times, [please raise a flag in Albert](grading/deficiency_n
 
 ## What happens if I'm sick/traveling/babysitter cancels?
 If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days.
+
+## What to do if a student can't get on campus?
+Students should reach out to [studentlink@nyu.edu](mailto:studentlink@nyu.edu]. We ask that you suppoort them as best you can if they are unable to come to campus.
 
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
