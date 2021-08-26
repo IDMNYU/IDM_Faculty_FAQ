@@ -24,7 +24,7 @@ We can have group field trips or similar experiences this fall, though everyone 
 
 ## On Campus Guests
 We are able to allow one-time guests coem into class for guest lecture/crit/etc. No minors, partners, signifigant others, etc are allowed on campus.
-You must (fill out this form at least 10 days in advance)[https://veoci.com/v/p/119522/workflow/7h4cqx9p2p7f]. The only people who are allowed to visit in this capacity are those who are coming in for a one-time lecture, crit, etc. 
+You must [fill out this form at least 10 days in advance](https://veoci.com/v/p/119522/workflow/7h4cqx9p2p7f). The only people who are allowed to visit in this capacity are those who are coming in for a one-time lecture, crit, etc. 
 
 You will be asked to fill in your information, the date and reason for the visit, the building you need your guest to visit, and contact information for your guest. Your guest will then receive an email with instructions on how to do a proof-of-vaccine upload and daily screener. They will need to have a green daily screener on the day of their visit to come on campus, and you will need to escort them.
 
