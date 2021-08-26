@@ -47,7 +47,7 @@ Just as in 'regular' times, [please raise a flag in Albert](grading/deficiency_n
 If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days.
 
 ## What to do if a student can't get on campus?
-Students should reach out to [studentlink@nyu.edu](mailto:studentlink@nyu.edu]. We ask that you suppoort them as best you can if they are unable to come to campus.
+Students should reach out to studentlink@nyu.edu. We ask that you suppoort them as best you can if they are unable to come to campus.
 
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
