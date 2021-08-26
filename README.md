@@ -5,6 +5,8 @@ Classes are expected to be on-campus unless prior arrangements were made. [All f
 
 Some students will be arriving late, some will be remote for the entire semester, but this will be a small number overall.
 
+## [COVID reference page](fall2021_covid_reference.md)
+
 ## Notes
 * [Important Dates](important_dates.md)
 * [Teaching in the pandemic](covid_resources.md)
