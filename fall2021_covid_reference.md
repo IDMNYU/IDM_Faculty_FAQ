@@ -17,21 +17,32 @@ If you are ill, please [use this secure form to alert NYU Health and Wellness](h
 ## Reporting non-compliance
 If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
 
-## What happens if I'm sick/traveling/babysitter cancels?
-If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days.
-
 ## Field trips
 We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
 
 ## On Campus Guests
 We are able to allow one-time guests coem into class for guest lecture/crit/etc. No minors, partners, signifigant others, etc are allowed on campus.
+You must (fill out this form at least 10 days in advance)[https://veoci.com/v/p/119522/workflow/7h4cqx9p2p7f]. The only people who are allowed to visit in this capacity are those who are coming in for a one-time lecture, crit, etc. 
+
+You will be asked to fill in your information, the date and reason for the visit, the building you need your guest to visit, and contact information for your guest. Your guest will then receive an email with instructions on how to do a proof-of-vaccine upload and daily screener. They will need to have a green daily screener on the day of their visit to come on campus, and you will need to escort them.
+
+As a courtsey, please let Scott & Luke know when you expect to have guests on campus.
 
 ## Expectations for students
-Faculty may request, via Deanna Rayment, that students who are supposed to be taking a course in a classroom do so. Students who wanted to participate at a distance or asynchronously would then need to obtain an excused absence for courses they are taking remotely that are 'on-campus'.
+Students who wanted to participate at a distance or asynchronously would then need to obtain an excused absence for courses they are taking remotely that are 'on-campus'. Notable different from previous years, if a student says they are ill, we must take them at face value - we can't ask them for proof or documentation.
 
-The majority of students should be cominng on-campus. The exceptions are for approved international students, remote courses, those who are quarantining/ill. Studnets who are remote shoudl have received a letter from Scott stating they may attend remotely. This may be for a few weeks until they arrive, or it may be for the semester. If you are unsure about a student's status after speakig with them, please email idmadvise@nyu.edu
+The majority of students should be cominng on-campus. The exceptions are for approved international students, remote courses, those who are quarantining/ill. Studnets who are remote should have received a letter from Scott stating they may attend remotely. This may be for a few weeks until they arrive, or it may be for the semester. If you are unsure about a student's status after speaking with them, please email idmadvise@nyu.edu
 
 *The bare minimum support for remote students is recording any class meetings and lectures.* Ideally, you will be able to provide students with an engaging course no matter how they are getting the information.
+
+## What if a student is missing multiple class meetings and has let me know they are ill?
+The provost's office has shared [this doc omn teaching temporarily remote students](https://docs.google.com/document/d/1L_YRVvzu1Eee46ngieEW135CqprlNsgv6rdNGVE9bi4/edit)
+
+## What do i do if I have concerns about the student in general?
+Just as in 'regular' times, [please raise a flag in Albert](grading/deficiency_notices.md), and email the student directly letting them know your concerns and what your expectations are. 
+
+## What happens if I'm sick/traveling/babysitter cancels?
+If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days.
 
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
@@ -45,18 +56,3 @@ We have a [service named NYU Stream for sharing videos](https://www.nyu.edu/life
 
 ## Classroom setup
 Our physical classrooms have a camera, microphone, speaker, and monitor/projector to accomodate students who cannot physically attend. Last year it was noticiably easier for students in-class to turn on their microphones for Zoom meetings to accomodate remote students than to rely on the omnidirectional mics in the classroom.
-
-## Resources
-There are a load of resources that have emerged in the last year+ for online and remote pedagogy. Tandon and NYU have a couple places for instructional support as well.
-
-### Teaching/classroom resources
-- [NYU Tandon remote instruction assistance](https://engineering.nyu.edu/academics/support-services/faculty-innovation-fitl/remote-instruction) 
-- [NYU Steinhardt remote instruction toolkit](https://sites.google.com/nyu.edu/nyu-steinhardt-toolkit/home) 
-- [NYU Virtual Teaching Community](https://sites.google.com/nyu.edu/virtual-teaching-community/home) 
-- [NYU Central Remote Instruction Support](https://www.nyu.edu/faculty/teaching-and-learning-resources/remote-instruction-support.html) &mdash; How-to with Zoom, Classes, NYU Stream, etc. 
-- [NYU Teach Talks](https://sites.google.com/nyu.edu/virtual-teaching-community/teachtalks?authuser=0), a series of faculty-focused conversations about teaching at NYU. 
-    - [Video archive of the July 2020 Teach Talks conference](https://sites.google.com/nyu.edu/teachcamp/recordings-resources?authuser=1&pli=1)
-
-### General NYU resources
-- [NYU Returns](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
-- [Tandon's Covid communication summaries](https://engineering.nyu.edu/covid-19-communications-and-resources)
