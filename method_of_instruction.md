@@ -6,22 +6,22 @@ Unless you are teaching an iNet sction of a course, you are expected to teach on
 On campus courses are no longer physically distanced.
 
 ## Masking, food and drink in the classroom, on the floor
-_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage, or alone in a private office. It's not permissable to have a drink or food in class.
+_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage, or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so, but that's about it.
 
 ## Office hours
-Offic ehours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do thia, students must know the best way to reach you outsiode the classroom.
+Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outsiode the classroom.
 
 ## Reporting illness
 If you are ill, please [use this secure form to alert NYU Health and Wellness](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT).
 
 ## Reporting non-compliance
-If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You shoudl email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott.
+If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
 
 ## What happens if I'm sick/traveling/babysitter cancels?
 If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days.
 
 ## Field trips
-We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards fo masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all physical distancing guidelines. [Before you go, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
+We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
 
 ## On Campus Guests
 We are able to allow one-time guests coem into class for guest lecture/crit/etc. No minors, partners, signifigant others, etc are allowed on campus.
