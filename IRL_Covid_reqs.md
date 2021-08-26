@@ -3,4 +3,4 @@ You _must be vaccinated_ to come to campus. [NYU has a page detailing the proces
 
 [Visit the student health portal to check the status of your vaccination](https://shcportal.nyu.edu/login_directory.aspx)
 
-Every day, _before coming to campus_, you must [complete the NYU Daily Screener](https://nyu.qualtrics.com/jfe/form/SV_ePNv0eXvGWgCxkq?) and show the grteen check with today's date to security as you enter the building.
+Every day, _before coming to campus_, you must [complete the NYU Daily Screener](https://nyu.qualtrics.com/jfe/form/SV_ePNv0eXvGWgCxkq?) and show the green check with today's date to security as you enter the building.
