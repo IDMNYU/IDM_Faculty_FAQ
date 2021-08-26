@@ -3,5 +3,5 @@ We will be teaching primarily on-campus in the fall of 2021. Some of you indicat
 
 Labs and shops will slowly be opening up, but with safety paramount. We will, as always, make the best of this, and I know you will do exceptionally well.
 
-- [Instructional help](method_of_instruction.md)
+- [Classroom tips](method_of_instruction.md)
 - [Accessing Campus](IRL_Covid_reqs.md)
