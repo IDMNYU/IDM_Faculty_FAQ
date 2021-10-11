@@ -23,12 +23,12 @@ If students aren’t complying with protocols, you should treat them as you woul
 We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
 
 ## On Campus Guests
-We are able to allow one-time guests coem into class for guest lecture/crit/etc. No minors, partners, signifigant others, etc are allowed on campus.
+We are able to allow guests to come into class for guest lecture/crit/etc. No minors, partners, significant others, etc are allowed on campus.
 You must [fill out this form at least 10 days in advance](https://veoci.com/v/p/119522/workflow/7h4cqx9p2p7f). The only people who are allowed to visit in this capacity are those who are coming in for a one-time lecture, crit, etc. 
 
 You will be asked to fill in your information, the date and reason for the visit, the building you need your guest to visit, and contact information for your guest. Your guest will then receive an email with instructions on how to do a proof-of-vaccine upload and daily screener. They will need to have a green daily screener on the day of their visit to come on campus, and you will need to escort them.
 
-As a courtsey, please let Scott & Luke know when you expect to have guests on campus.
+As a courtesy, please let Scott & Luke know when you expect to have guests on campus.
 
 ## Expectations for students
 Students who wanted to participate at a distance or asynchronously would then need to obtain an excused absence for courses they are taking remotely that are 'on-campus'. Notable different from previous years, if a student says they are ill, we must take them at face value - we can't ask them for proof or documentation.
