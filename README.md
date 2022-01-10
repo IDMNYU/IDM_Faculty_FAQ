@@ -1,14 +1,11 @@
 # IDM Faculty FAQ
 
-## TLDR Fall 2021
-### We changed the name of the program! We're now Integrated Design & Media
-### Luke Dubois and Jean Gallagher are the new co-chairs of TCS, our parent department
+## Spring 2022
+### Welcome to the Integrated Design & Media program
 
-Classes are expected to be on-campus unless prior arrangements were made. Students are generally expected to be oncampus for classes. [All faculty, students, and staff must submit proof of vaccination for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). Masks are required at all times on campus unless you're in a private office. No eating or drinking (a sip of water during class in fine) allowed except in designated areas.
+Classes are expected to be on-campus unless prior arrangements were made. Students are expected to be on-campus for classes. [All faculty, students, and staff must submit proof of vaccination and a booster shot for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). KN95 or surgical masks are required at all times on campus unless you're in a private office. Cloth masks alone are not allowed. No eating or drinking (a sip of water during class in fine) allowed except in designated areas.
 
-Some students will be arriving late, some will be remote for the entire semester, but this will be a small number overall.
-
-## [COVID reference page](fall2021_covid_reference.md)
+## [COVID reference page](sp2022_covid_reference.md)
 
 ## Notes
 * [Important Dates](important_dates.md)
