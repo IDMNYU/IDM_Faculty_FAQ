@@ -10,7 +10,7 @@ _Masks are required at all times_ unless you are in a designated eating area and
 Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outsiode the classroom.
 
 ## Reporting illness
-If you are ill, please [use this secure form to alert NYU Health and Wellness](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT).
+If you are ill, please [use this secure form to alert NYU Health and Wellness](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT). If a student is ill, tell them to stay home and use the linked form to [alert NYU Health and Wellness](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT)
 
 ## Reporting non-compliance
 If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
