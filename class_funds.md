@@ -1,6 +1,6 @@
 # Class Funds
 
-While we are able to offer some funds, we cannot offer the same level of support we did in years past. _Funding is limited only to guest speakers/critics._ If you would like to apply for available funds, please [fill out this form](https://forms.gle/JeRHf4t98wxq5hLe9) as soon as possible and notify Scott once you have done so. We cannot purchase gift cards, and folks must be US residents, or able to work for any employer in the US to receive compensation
+We are able to provide up to $200 per course for currcular needs. _Funding is limited only to guest speakers/critics. If you have technical needs, please contact Scott and idmtech@nyu.edu_ If you would like to apply for available funds, please [fill out this form](https://forms.gle/JeRHf4t98wxq5hLe9) as soon as possible and notify Scott once you have done so. We cannot purchase gift cards, and folks must be US residents, or able to work for any employer in the US to receive compensation
 
 **If you have an approved guest lecturer**, after the lecture has taken place please email Scott, Paulette, and the guest lecturer with the following : 
 * the name of the guest, 
