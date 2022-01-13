@@ -4,7 +4,9 @@
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
 
 ## Masking, food and drink in the classroom, on the floor
-_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage, or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so, but that's about it.
+_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so, but that's it. 
+
+[Cloth masks alone are no longer allowed.](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/protective-equipment.html#allowable) Appropriate masks are disposable surgical masks, N/KN59, and KF94. A cloth mask may be worn over one of these to increase fit. 
 
 ## Office hours
 Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outsiode the classroom.
@@ -15,7 +17,7 @@ If you are ill, please [use this secure form to alert NYU Health and Wellness](h
 ## Reporting non-compliance
 If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
 
-If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave, reporting them to the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu), or campus safety at 212-998-2222.
+If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave, reporting them to the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) or campus safety at 212-998-2222.
 
 ## Field trips
 We can have group field trips or similar experiences this spring, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
@@ -30,7 +32,7 @@ You will be asked to fill in your information, the date and reason for the visit
 As a courtesy, please let Scott know when you expect to have guests on campus.
 
 ## Expectations for students
-Notably different from previous years, if a student says they are ill, we must take them at face value - we shouldn't ask them for proof or documentation to be verified by the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu).
+If a student says they are ill, we must take them at face value. We shouldn't ask them for proof or documentation to be verified by the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) unless there is an ongoing or unusual concern. Studnets who miss class are responsible for making up whatever they have missed. If you can make a recording of you class session availabe, please do so. Use your best judgement in this matter, the studnet advocate has been overwhelmed this year with request for extensions, permissiable absences, etc. 
 
 ## What if a student is missing multiple class meetings and has let me know they are ill?
 The provost's office has shared [this doc on teaching temporarily remote students](https://docs.google.com/document/d/1L_YRVvzu1Eee46ngieEW135CqprlNsgv6rdNGVE9bi4/edit)
@@ -39,10 +41,10 @@ The provost's office has shared [this doc on teaching temporarily remote student
 Just as in 'regular' times, [please raise a flag in Albert](https://www.nyu.edu/content/dam/nyu/studentSuccess/documents/refresh2020/Faculty_Raise%20a%20Flag(1).pdf), and email the student directly letting them know your concerns and what your expectations are. 
 
 ## What happens if I'm sick/traveling/babysitter cancels?
-If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days. We stongly discourage scheduling 'makeup' classes, as it can be difficult to align everyone's time.
+If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days. We stongly discourage scheduling 'makeup' classes, as it can be difficult to align everyone's time. If you knwo you will miss a scheduled class meeting ahead of time (due to travel, conferences, etc.) please let the students know far in advance, and let them know whatg they can expect on that day.
 
 ## What to do if a student can't get on campus becausew of an issue with their ID?
-Students should reach out to studentlink@nyu.edu. We ask that you suppoort them as best you can if they are unable to come to campus.
+Students should reach out to studentlink@nyu.edu. 
 
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
