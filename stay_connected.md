@@ -2,7 +2,6 @@
 
 ## Social Media
 
-* We have a tepidly functional [Facebook presence](https://www.facebook.com/BxmCPoly).
 * [Github](https://github.com/IDMNYU) - you can be added to the IDM github group if you wish
 * [Vimeo](https://vimeo.com/idmnyu)
 * [Instagram](https://www.instagram.com/idmnyu/)
@@ -12,9 +11,7 @@
 
 During the Graduate Colloquium, all graduate students meet together for lecture series, discussions, and open critiques. The graduate colloquium is more like a gathering, rather than a course, where ALL current graduate students will get to know one another's work. We also want our students to meet practicing artists, designers, programmers, entrepreneurs, and creative technologists. We want to enhance our graduate community where students can freely share ideas, hold internal critiques, and build and cultivate professional networks.
 
-The Graduate Colloquium is open to the public.
-
-For the Spring 2020 semester, our graduate colloquium will be held Mondays at 5pm on the 3nd floor of 370 Jay Street in Studio B.
+For the Spring 2022 semester, our graduate colloquium will be held Mondays at 5pm on the 3nd floor of 370 Jay Street in Studio B.
 
 ### Past Graduate Colloquium Speakers
 
