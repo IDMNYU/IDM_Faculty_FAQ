@@ -59,6 +59,10 @@
 * Job/Internship fairs and events
 * Social Media
 
+### Director of Production
+
+**Todd Bryant**, tjb387@nyu.edu
+
 ### Technical Director
 
 [**Elton Kwok** ](http://engineering.nyu.edu/people/elton-kwok), eltonkwok@nyu.edu
