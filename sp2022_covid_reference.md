@@ -13,7 +13,7 @@
 ## What to do if you contract covid / are exposed / a studnet is ill
 All students, faculty, and employees—regardless of vaccination status—who have symptoms of COVID-19, a diagnosis of COVID-19, or have had a close contact exposure to COVID-19 are [required to complete the self-reporting form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT). After completing the form, the COVID-19 Prevention & Response Team will follow up with next steps and guidance. It is important that you stay home and avoid contact with others.
 
-If a student discloses their covid status to you, tel them to stay home and fill out the self-reporting form above. If you have recentluy in in close contact with the student, you should also report the possible exposure, and strongly consider taking your class(es) online until you have received a negative PCR test.
+If a student discloses their covid status to you, tell them to stay home and fill out the self-reporting form above. If you have recentluy in in close contact with the student, you should also report the possible exposure, and strongly consider taking your class(es) online until you have received a negative PCR test.
 
 ## Teaching modalities
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
@@ -54,6 +54,9 @@ If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immed
 
 ## What to do if a student can't get on campus becausew of an issue with their ID?
 Students should reach out to studentlink@nyu.edu. 
+
+## Syllabi
+Prior to the first day of class, [send your syllabus to Eric](mailto:em1680@nyu.edu). You can [use this template which has all the required bits you need](https://docs.google.com/document/d/1TC-o0l7zGKjCTDUQgUVxkCDgCyZ3gx-bK0zGqDWRgmA/edit?usp=sharing).
 
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
