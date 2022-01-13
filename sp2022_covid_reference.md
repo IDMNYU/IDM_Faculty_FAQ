@@ -1,5 +1,18 @@
 # Teaching notes Spring 2022
 
+## Contacts
+Campus Safety - 212-998-2222
+Questions about classroom tech - Campus Media, campusmedia@nyu.edu 212-998-2655
+Questions about IDM equipment - IDM Tech team (Elton and Gabriella), idmtech@nyu.edu
+Questions about IDM/NYU/Tandon policies - Scott
+COVID compliance - covidcompliance@nyu.edu
+
+## How to get into 370 Jay 
+[Details on the steps to access the building](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/campus-life/building-access.html)
+
+## What to do if you contract covid / are exposed
+All students, faculty, and employees—regardless of vaccination status—who have symptoms of COVID-19, a diagnosis of COVID-19, or have had a close contact exposure to COVID-19 are [required to complete the self-reporting form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT). After completing the form, the COVID-19 Prevention & Response Team will follow up with next steps and guidance. It is important that you stay home and avoid contact with others.
+
 ## Teaching modalities
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
 
