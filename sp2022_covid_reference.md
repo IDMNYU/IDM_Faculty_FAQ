@@ -1,4 +1,4 @@
-# Covid teaching notes Spring 2022
+# Teaching notes Spring 2022
 
 ## Teaching modalities
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
@@ -21,10 +21,11 @@ If students aren’t complying with protocols, you should treat them as you woul
 We can have group field trips or similar experiences this spring, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
 
 ## On Campus Guests
-We are able to allow a limited number of guests to come into class for lecture/crit/etc. No minors, partners, significant others, etc are allowed on campus.
+We are able to allow guests deemed essential for academic functionality to come onto campus for lecture/crit/etc. No minors, partners, significant others, etc are allowed on campus.
+
 You must [fill out this form at least 10 days in advance](https://veoci.com/v/p/119522/workflow/7h4cqx9p2p7f). The only people who are allowed to visit in this capacity are those who are coming in for a one-time lecture, crit, etc. 
 
-You will be asked to fill in your information, the date and reason for the visit, the building you need your guest to visit, and contact information for your guest. Your guest will then receive an email with instructions on how to do a proof-of-vaccine upload and daily screener. They will need to have a green daily screener on the day of their visit to come on campus, and you will need to escort them.
+You will be asked to fill in your information, the date and reason for the visit, the building you need your guest to visit, and contact information for your guest. Your guest will then receive an email with instructions on how to do a proof-of-vaccine upload and daily screener. They will need to have a green daily screener on the day of their visit to come on campus, and you will need to escort them. Guests must be fully vaccinated and boosted (if eligible) to come to campus.
 
 As a courtesy, please let Scott know when you expect to have guests on campus.
 
