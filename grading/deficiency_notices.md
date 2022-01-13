@@ -10,9 +10,9 @@ _In addition_ to NYU Connect :
   * **Please do not wait to see if the student will improve.** 
   * **Let them know their deficiencies as soon as it affects their grades substantially, and each time thereafter.**
   * **Please do not wait until the end of the semester or worse AFTER the semester or once the problem has escalated.** 
-  * **If in doubt, email the admin team, myself, and Deanna \(minus the student\) anyway.**
+  * **If in doubt, email the admin team, myself, and the student advocate \(minus the student\) anyway.**
 * I would email the student AND talk to the student \(if you can get a hold of them\) privately. Do this BEFORE the withdrawal date of the course so they have the option to withdraw without an academic penalty.
-* If you know a student is failing and you have notified them via email \(see above\), strongly encourage them to WITHDRAW from the course by the NYU withdrawal deadline. Look at [the NYU Academic Calendar for this date each semester](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/academic-calendar.html#Spring_2022). This semester the date is **May 3, 2023**.
+* If you know a student is failing and you have notified them via email \(see above\), strongly encourage them to WITHDRAW from the course by the NYU withdrawal deadline. Look at [the NYU Academic Calendar for this date each semester](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/academic-calendar.html#Spring_2022). This semester the date is **May 3, 2022**.
 * It's recommended that you add the drop/add and withdrawal dates in your syllabus calendar.
 * If after doing all of the above and they deserve a failing grade, give the student the grade they deserve.
 
