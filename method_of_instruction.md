@@ -1,4 +1,4 @@
-# Covid teaching notes Fall 2021
+# Covid teaching notes Spring 2022
 
 ## Teaching modalities
 Unless you are teaching an iNet sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
@@ -27,11 +27,9 @@ We can have group field trips or similar experiences this fall, though everyone 
 We are able to allow one-time guests coem into class for guest lecture/crit/etc. No minors, partners, signifigant others, etc are allowed on campus.
 
 ## Expectations for students
-Faculty may request, via Deanna Rayment, that students who are supposed to be taking a course in a classroom do so. Students who wanted to participate at a distance or asynchronously would then need to obtain an excused absence for courses they are taking remotely that are 'on-campus'.
+Faculty may request that students who are supposed to be taking a course in a classroom do so. Students who wanted to participate at a distance or asynchronously would then need to obtain an excused absence for courses they are taking remotely that are 'on-campus'.
 
-The majority of students should be cominng on-campus. The exceptions are for approved international students, remote courses, those who are quarantining/ill. Studnets who are remote shoudl have received a letter from Scott stating they may attend remotely. This may be for a few weeks until they arrive, or it may be for the semester. If you are unsure about a student's status after speakig with them, please email idmadvise@nyu.edu
-
-*The bare minimum support for remote students is recording any class meetings and lectures.* Ideally, you will be able to provide students with an engaging course no matter how they are getting the information.
+The majority of students should be on-campus. The exceptions after the first few weeks are for those who are quarantining/ill. 
 
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
