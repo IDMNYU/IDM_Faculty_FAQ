@@ -5,7 +5,7 @@
 
 Classes are expected to be on-campus unless prior arrangements were made. Students are expected to be on-campus for classes. [All faculty, students, and staff must submit proof of vaccination and a booster shot for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). KN95 or surgical masks are required at all times on campus unless you're in a private office. Cloth masks alone are not allowed. No eating or drinking (a sip of water during class in fine) allowed except in designated areas.
 
-## [COVID reference page](sp2022_covid_reference.md)
+## [Quick reference page](sp2022_covid_reference.md)
 
 ## Notes
 * [Important Dates](important_dates.md)
