@@ -3,6 +3,7 @@
 ## Contacts
 * Campus Safety - 212-998-2222
 * Questions about classroom tech - Campus Media, campusmedia@nyu.edu 212-998-2655
+* Qurstions about Brightspace, NYU's LMS - Yona Jean-Pierre yjeanpie@nyu.edu
 * Questions about IDM equipment - IDM Tech team (Elton and Gabriella), idmtech@nyu.edu
 * Questions about IDM/NYU/Tandon policies - Scott
 * COVID compliance - covidcompliance@nyu.edu
@@ -59,7 +60,7 @@ Students should reach out to studentlink@nyu.edu.
 Prior to the first day of class, [send your syllabus to Eric](mailto:em1680@nyu.edu). You can [use this template which has all the required bits you need](https://docs.google.com/document/d/1TC-o0l7zGKjCTDUQgUVxkCDgCyZ3gx-bK0zGqDWRgmA/edit?usp=sharing).
 
 ## Technology
-There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you.
+There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you. Need NYU Brightspace Support? [Take a look at the Instructor Guide](https://docs.google.com/document/d/1T-XiDuK5HFe0i8EhtgvfJI0TBrwy_AdX5HYA39kmYog/edit)
 
 - [NYU web publishing (for NYU Wordpress sites)](https://wp.nyu.edu/create/) 
 - IDM wordpress sites are available for those who want more control over layout. Contact Elton Kwok if you're so inclined.
