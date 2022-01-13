@@ -1,11 +1,11 @@
 # Teaching notes Spring 2022
 
 ## Contacts
-Campus Safety - 212-998-2222
-Questions about classroom tech - Campus Media, campusmedia@nyu.edu 212-998-2655
-Questions about IDM equipment - IDM Tech team (Elton and Gabriella), idmtech@nyu.edu
-Questions about IDM/NYU/Tandon policies - Scott
-COVID compliance - covidcompliance@nyu.edu
+* Campus Safety - 212-998-2222
+* Questions about classroom tech - Campus Media, campusmedia@nyu.edu 212-998-2655
+* Questions about IDM equipment - IDM Tech team (Elton and Gabriella), idmtech@nyu.edu
+* Questions about IDM/NYU/Tandon policies - Scott
+* COVID compliance - covidcompliance@nyu.edu
 
 ## How to get into 370 Jay 
 [Details on the steps to access the building](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/campus-life/building-access.html)
