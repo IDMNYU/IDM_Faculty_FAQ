@@ -10,8 +10,10 @@ COVID compliance - covidcompliance@nyu.edu
 ## How to get into 370 Jay 
 [Details on the steps to access the building](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/campus-life/building-access.html)
 
-## What to do if you contract covid / are exposed
+## What to do if you contract covid / are exposed / a studnet is ill
 All students, faculty, and employees—regardless of vaccination status—who have symptoms of COVID-19, a diagnosis of COVID-19, or have had a close contact exposure to COVID-19 are [required to complete the self-reporting form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT). After completing the form, the COVID-19 Prevention & Response Team will follow up with next steps and guidance. It is important that you stay home and avoid contact with others.
+
+If a student discloses their covid status to you, tel them to stay home and fill out the self-reporting form above. If you have recentluy in in close contact with the student, you should also report the possible exposure, and strongly consider taking your class(es) online until you have received a negative PCR test.
 
 ## Teaching modalities
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
@@ -20,12 +22,6 @@ Unless you are teaching an iNet (online) sction of a course, you are expected to
 _Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so, but that's it. 
 
 [Cloth masks alone are no longer allowed.](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/protective-equipment.html#allowable) Appropriate masks are disposable surgical masks, N/KN59, and KF94. A cloth mask may be worn over one of these to increase fit. 
-
-## Office hours
-Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outsiode the classroom.
-
-## Reporting illness
-If you are ill, please [use this secure form to alert NYU Health and Wellness](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT). If a student is ill, tell them to stay home and use the linked form to [alert NYU Health and Wellness](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT)
 
 ## Reporting non-compliance
 If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
@@ -68,6 +64,9 @@ There is no mandate to use any particular learning management system (LMS). NYU 
 NYU uses Zoom for remote instruction. You can [find more information at this link](https://www.nyu.edu/life/information-technology/communication-and-conferencing/meetings-chat-conferencing/nyu-zoom.html)
 
 We have a [service named NYU Stream for sharing videos](https://www.nyu.edu/life/information-technology/instructional-technology-support/video-and-media-creation-presentation/nyu-stream.html). You are free to use other services like Youtube and Vimeo as well. 
+
+## Office hours
+Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outsiode the classroom.
 
 ## Classroom setup
 Our physical classrooms have a camera, microphone, speaker, and monitor/projector to accomodate students who cannot physically attend. Last year it was noticiably easier for students in-class to turn on their microphones for Zoom meetings to accomodate remote students than to rely on the omnidirectional mics in the classroom.
