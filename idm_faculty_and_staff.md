@@ -29,6 +29,9 @@
 
 [**Mark Skwarek**](http://markskwarek.com/),  mls386@nyu.edu
 
+## IDM Visiting Faculty
+
+[**Mukhtara Yusuf**](https://www.linkedin.com/in/mukhtara-yusuf-48a49755/), my911@nyu.edu
 
 ## NYU Full-Time Faculty \(who also teach for IDM on occasion\)
 
@@ -82,50 +85,37 @@
 ## Current IDM Adjunct Faculty
 
 * [Katherine Bennett](https://www.katherinebennett.net)
-* [Jenny Bee](https://jennybee.design)
 * [Kojo Boateng](http://kojoboateng.com/)
 * [Tresson Canely](https://tresscanley.com/)
-* [Gus Chalkias]()
 * [Lawra Clark](https://twentycapitalletters.com)
 * [Andrew Cotter](http://thatcotter.github.io)
 * [Sarah Dahnke](http://www.sarahdahnke.com)
-* [Karen Dias](http://karendiasphotography.com)
 * [Maria Dyer](http://mariadyer.co)
 * [Erik Dykema](https://www.linkedin.com/in/erikdykema/)
 * [Angie Eng](http://angieeng.com/)
 * [Diego Garcia](http://radstronomical.com)
 * [Dakota Gearhart](https://www.dakotagearhart.com/)
 * [Amanda George](https://www.amandageorge.com)
-* [Josh Goldberg](http://goldbergs.com)
 * [Cesar Guevara](https://www.cesarcgart.com)
 * [David Haines](http://www.davidhaines.net)
-* [Claire Hentschker](http://www.clairesophie.com)
-* [Justin Hendrix]()
 * [Kato Hideki](https://www.katohideki.com)
 * [Casey Judge](https://www.acaciajudge.com/)
-* [Esther Kang](http://estherykang.com/)
 * [Nick Katsivelos](https://www.linkedin.com/in/katsivelos/)
-* [Jason Laan](https://laan.com)
 * [Rebecca Leopold](https://www.rebeccaleopold.com)
-* [August Luhrs](https://augustluhrs.art/)
 * [Edan McDevitt](http://artehaus.io)
-* [Mani Mehrvarz](https://manimehrvarz.com/)
 * [Touseef Mirza](https://www.touseefmirza.com)
 * [Camila Morales](https://www.linkedin.com/in/camila-a-morales-7069b155/)
 * [Alex Nathanson](http://www.alexnathanson.com)
 * [Monica Panzarino](https://www.monicapanzarino.art)
 * [Lauren Petty](http://www.automaticrelease.org)
 * [Toni Pizza](https://www.toni.pizza/)
-* [Kathleen Pullum]()
 * [Matthew Rader](https://www.reedandrader.com)
 * [Effie Rieper](http://www.ericrieper.com)
-* [Leah Roh](https://leah.fyi)
 * [Beth Rosenberg](https://www.techkidsunlimited.org/staff/beth-rosenberg/)
 * [Michael Schumacher](https://www.michaeljschumacher.com)
 * [Jesse Seegers](https://jesseseegers.com)
 * [Ofer Shouval](https://ofershouval.github.io/)
 * [Kevin Siwoff](http://kevinsiwoff.com)
-* [Kat Sullivan](http://katsully.com)
 * [Dan Taeyoung](https://dantaeyoung.com)
 * [Sally Thurer](https://sallythurer.com)
 * [Jack Toolin](http://www.jacktoolin.net)

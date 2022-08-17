@@ -11,4 +11,3 @@ If you require access to 2 MetroTech, please email [Eric Maiello](mailto:eric.ma
 ### 2 MetroTech Labs & rooms
 * Black Box/Mocap room
 * Sound Studio
-* senior studios
