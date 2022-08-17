@@ -1,11 +1,13 @@
 # IDM Faculty FAQ
 
-## Spring 2022
-### Welcome to the Integrated Design & Media program
+## Fall 2022
+### Welcome to the Integrated Design & Media program!
 
-Classes are expected to be on-campus unless prior arrangements were made. Students are expected to be on-campus for classes. [All faculty, students, and staff must submit proof of vaccination and a booster shot for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). KN95 or surgical masks are required at all times on campus unless you're in a private office. Cloth masks alone are not allowed. No eating or drinking (a sip of water during class in fine) allowed except in designated areas.
+Classes are to be on-campus unless prior arrangements were made. Students are expected to be on-campus for classes. [All faculty, students, and staff must submit proof of vaccination and a booster shot for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). 
 
-## [Quick reference page](sp2022_covid_reference.md)
+We are slowly moving back to a sembance of normalcy. Masks are still required in all classrooms until further notice. Students should refrain from earing in the classroom as well. The Daily Screener is going away, being replaced with something called Violet Go which can be stored in your phone's digital wallet.
+
+## [Quick reference page](f2022_covid_reference.md)
 
 ## Notes
 * [Important Dates](important_dates.md)

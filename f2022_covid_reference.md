@@ -1,4 +1,4 @@
-# Teaching notes Spring 2022
+# Teaching notes Fall 2022
 
 ## Contacts
 * Campus Safety - 212-998-2222
@@ -20,13 +20,11 @@ If a student discloses their covid status to you, tell them to stay home and fil
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
 
 ## Masking, food and drink in the classroom, on the floor
-_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so, but that's it. 
+_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so. 
 
 [Cloth masks alone are no longer allowed.](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/protective-equipment.html#allowable) Appropriate masks are disposable surgical masks, N/KN59, and KF94. A cloth mask may be worn over one of these to increase fit. 
 
 ## Reporting non-compliance
-If you see someone who is not follwing the mask mandate, eating in a non-approved area, or acting in a way that is inappropriate during a pandemic while in an NYU building, get what information you can about the individual and ask them to leave. You should email [covidcompliance@nyu.edu](mailto:covidcompliance@nyu.edu) with whatever information you have about the non-compliant individual(s). You may also contact the [Office of Student Conduct](mailto:student.conduct@nyu.edu) or raise a flag in NYU Connect if it is a student. If it is a faculty or staff member, please contact Scott or Luke.
-
 If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave, reporting them to the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) or campus safety at 212-998-2222.
 
 ## Field trips
@@ -51,16 +49,16 @@ The provost's office has shared [this doc on teaching temporarily remote student
 Just as in 'regular' times, [please raise a flag in Albert](https://www.nyu.edu/content/dam/nyu/studentSuccess/documents/refresh2020/Faculty_Raise%20a%20Flag(1).pdf), and email the student directly letting them know your concerns and what your expectations are. 
 
 ## What happens if I'm sick/traveling/babysitter cancels?
-If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days. We stongly discourage scheduling 'makeup' classes, as it can be difficult to align everyone's time. If you knwo you will miss a scheduled class meeting ahead of time (due to travel, conferences, etc.) please let the students know far in advance, and let them know whatg they can expect on that day.
+If you cannot come to campus for any reason, contact idmadvise@nyu.edu and immediately notify all the studnets in your class. For these circumstances you may teach remotely or find a substitute instructor for the missing days. We stongly discourage scheduling 'makeup' classes, as it can be difficult to align everyone's time. If you know you will miss a scheduled class meeting ahead of time (due to travel, conferences, etc.) please let the students know far in advance, and let them know what they can expect on that day.
 
-## What to do if a student can't get on campus becausew of an issue with their ID?
+## What to do if a student can't get on campus because of an issue with their ID?
 Students should reach out to studentlink@nyu.edu. 
 
 ## Syllabi
 Prior to the first day of class, [send your syllabus to Eric](mailto:em1680@nyu.edu). You can [use this template which has all the required bits you need](https://docs.google.com/document/d/1TC-o0l7zGKjCTDUQgUVxkCDgCyZ3gx-bK0zGqDWRgmA/edit?usp=sharing).
 
 ## Technology
-There is no mandate to use any particular learning management system (LMS). NYU now uses [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress. Use what works best for you. Need NYU Brightspace Support? [Take a look at the Instructor Guide](https://docs.google.com/document/d/1T-XiDuK5HFe0i8EhtgvfJI0TBrwy_AdX5HYA39kmYog/edit)
+There is no mandate to use any particular learning management system (LMS). NYU now has [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress, some even like Brightspace. Use what works best for you. Need NYU Brightspace Support? [Take a look at the Instructor Guide](https://docs.google.com/document/d/1T-XiDuK5HFe0i8EhtgvfJI0TBrwy_AdX5HYA39kmYog/edit)
 
 - [NYU web publishing (for NYU Wordpress sites)](https://wp.nyu.edu/create/) 
 - IDM wordpress sites are available for those who want more control over layout. Contact Elton Kwok if you're so inclined.
@@ -70,7 +68,7 @@ NYU uses Zoom for remote instruction. You can [find more information at this lin
 We have a [service named NYU Stream for sharing videos](https://www.nyu.edu/life/information-technology/instructional-technology-support/video-and-media-creation-presentation/nyu-stream.html). You are free to use other services like Youtube and Vimeo as well. 
 
 ## Office hours
-Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outsiode the classroom.
+Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outside the classroom.
 
 ## Classroom setup
 Our physical classrooms have a camera, microphone, speaker, and monitor/projector to accomodate students who cannot physically attend. Last year it was noticiably easier for students in-class to turn on their microphones for Zoom meetings to accomodate remote students than to rely on the omnidirectional mics in the classroom.
