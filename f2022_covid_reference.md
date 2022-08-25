@@ -19,25 +19,29 @@ If a student discloses their covid status to you, tell them to stay home and fil
 ## Teaching modalities
 Unless you are teaching an iNet (online) sction of a course, you are expected to teach on-campus this semester. If you are unsure, email Scott.
 
-## Masking, food and drink in the classroom, on the floor
-_Masks are required at all times_ unless you are in a designated eating area and consuming food or a beverage or alone in a private office. It's not permissable to eat food in class. You may have a sip of a drink and pull your mask down for a moment to do so. 
+## Masking
+_Masks are required at all times in IDM public spaces, studios, and classrooms_
+[NYU's full mask policy can be seen here](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/covid-related-guidance/protective-equipment.html) 
 
-[Cloth masks alone are no longer allowed.](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/protective-equipment.html#allowable) Appropriate masks are disposable surgical masks, N/KN59, and KF94. A cloth mask may be worn over one of these to increase fit. 
+The tl;dr of it all is this : in classrooms and other instructional spaces, masks must be worn at all times. This policy applies to our studio spaces, which often act as double duty classrooms and workshop areas.
+
+You may remove your mask in a shared office when you are alone. If there are others present, you should keep your mask on. 
+
+These policies are continually reviewed throughout the semester and may be updated in accordance with University rules. 
+
+## Eating
+You may eat in an office if you're by yourself. If there are others present, please move to the cafeteria on the second floor. You are welcome to use the refrigerator (cleaned out weekly on Friday evenings) and microwave, utensils, mugs, etc in the 3rd floor space, but please don't eat in there. 
 
 ## Reporting non-compliance
-If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave, reporting them to the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) or campus safety at 212-998-2222.
+If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave, reporting them to the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu), or contacting campus safety at 212-998-2222.
 
 ## Field trips
-We can have group field trips or similar experiences this spring, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. [Before you go on a trip, please fill out this survey.](https://nyu.qualtrics.com/jfe/form/SV_a66iiwwTV2Ager4)
+We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. 
 
 ## On Campus Guests
-We are able to allow guests deemed essential for academic functionality to come onto campus for lecture/crit/etc. No minors, partners, significant others, etc are allowed on campus.
+We are allowed to have guests on campus. The process is easier than it was last year, but advance notice is still required; same-day visit requests are not permitted. All visitors, vendors, and affiliates must be sponsored by an NYU employee. [The full university policy can be seen at this page.](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/campus-visitors.html) 
 
-You must [fill out this form at least 10 days in advance](https://veoci.com/v/p/119522/workflow/7h4cqx9p2p7f). The only people who are allowed to visit in this capacity are those who are coming in for a one-time lecture, crit, etc. 
-
-You will be asked to fill in your information, the date and reason for the visit, the building you need your guest to visit, and contact information for your guest. Your guest will then receive an email with instructions on how to do a proof-of-vaccine upload and daily screener. They will need to have a green daily screener on the day of their visit to come on campus, and you will need to escort them. Guests must be fully vaccinated and boosted (if eligible) to come to campus.
-
-As a courtesy, please let Scott know when you expect to have guests on campus.
+Guests must be vaccinated and boosted to visit campus.
 
 ## Expectations for students
 If a student says they are ill, we must take them at face value. We shouldn't ask them for proof or documentation to be verified by the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) unless there is an ongoing or unusual concern. Studnets who miss class are responsible for making up whatever they have missed. If you can make a recording of you class session availabe, please do so. Use your best judgement in this matter, the studnet advocate has been overwhelmed this year with request for extensions, permissiable absences, etc. 
@@ -45,7 +49,7 @@ If a student says they are ill, we must take them at face value. We shouldn't as
 ## What if a student is missing multiple class meetings and has let me know they are ill?
 The provost's office has shared [this doc on teaching temporarily remote students](https://docs.google.com/document/d/1L_YRVvzu1Eee46ngieEW135CqprlNsgv6rdNGVE9bi4/edit)
 
-## What do i do if I have concerns about the student in general?
+## What do I do if I have concerns about the student in general?
 Just as in 'regular' times, [please raise a flag in Albert](https://www.nyu.edu/content/dam/nyu/studentSuccess/documents/refresh2020/Faculty_Raise%20a%20Flag(1).pdf), and email the student directly letting them know your concerns and what your expectations are. 
 
 ## What happens if I'm sick/traveling/babysitter cancels?
