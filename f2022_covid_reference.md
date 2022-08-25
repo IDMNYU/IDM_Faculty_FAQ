@@ -4,9 +4,12 @@
 * Campus Safety - 212-998-2222 // 911 if life threatening
 * Questions about classroom tech ont the 3rd floor - Tandon Media Services, tsoe-av@nyu.edu (646) 997 - 3934
 * Qurstions about Brightspace, NYU's LMS - Yona Jean-Pierre yjeanpie@nyu.edu
-* Questions about IDM equipment and facilities - IDM Tech team (Elton and Gabriella), idmtech@nyu.edu
+* Questions about IDM equipment and facilities - IDM Tech team (Elton and Gabriella), idmtech@nyu.edu and [https://wp.nyu.edu/idmtech/](https://wp.nyu.edu/idmtech/)
 * Questions about IDM/NYU/Tandon policies - idmadvise@nyu.edu
 * COVID compliance - covidcompliance@nyu.edu
+
+## IDM Public Events calendar
+ [IDM Public calendar of events](https://calendar.google.com/calendar/u/1?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (includes University dates, thesis, senior project, show, public talks, etc.). If you have a public facing event you would like to add to the calendar, please email Kazi Rahman.
 
 ## COVID-19 Policies 
 [NYU's primary COVID-19 Info pages](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
@@ -68,6 +71,17 @@ Students should reach out to studentlink@nyu.edu.
 ## Syllabi
 Prior to the first day of class, [send your syllabus to Eric](mailto:em1680@nyu.edu). You can [use this template which has all the required bits you need](https://docs.google.com/document/d/1TC-o0l7zGKjCTDUQgUVxkCDgCyZ3gx-bK0zGqDWRgmA/edit?usp=sharing).
 
+## Office hours
+Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outside the classroom.
+
+## Classroom setup
+Our classrooms have whiteboards, a camera, microphone, speakers, and monitor. The third floor classroms now have a podium for lectures that also support Zoom. [A training for the 3rd floor clasrooms is happening Wednesday August 31 from 2:00 - 3:00 PM in 370 Jay Street - Room 307.](https://docs.google.com/forms/d/1-jB-yDQZsUec4E5xTQlXfJGQx2N09CUsQ4IKJR4dMDo/viewform?__s=3p2wgvfhy2jqv5gzbszs&edit_requested=true)
+
+## Labs and the Equipment Room
+Starting Sept 4, the ER and the print lab will be open on a limited basis for studnet work. If you have a particular need prior to a full opening (expected in late September), please email idmtech@nyu.edu and explain what your needs are.
+
+Students must have insurance to check out materials from the ER. [Details may be found on the IDM Tech website](https://wp.nyu.edu/idmtech/equipment/). 
+
 ## Technology
 There is no mandate to use any particular learning management system (LMS). NYU now has [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress, some even like Brightspace. Use what works best for you. Need NYU Brightspace Support? [Take a look at the Instructor Guide](https://docs.google.com/document/d/1T-XiDuK5HFe0i8EhtgvfJI0TBrwy_AdX5HYA39kmYog/edit)
 
@@ -78,8 +92,16 @@ NYU uses Zoom for remote instruction. You can [find more information at this lin
 
 We have a [service named NYU Stream for sharing videos](https://www.nyu.edu/life/information-technology/instructional-technology-support/video-and-media-creation-presentation/nyu-stream.html). You are free to use other services like Youtube and Vimeo as well. 
 
-## Office hours
-Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outside the classroom.
+## Resources
+There are a load of resources that have emerged in the last year+ for online and remote pedagogy. Tandon and NYU have a coulpe places for instructional support as well.
 
-## Classroom setup
-Our classrooms have whiteboards, a camera, microphone, speakers, and monitor. The third floor classroms now have a podium for lectures that also support Zoom. [A training for the 3rd floor clasrooms is happening Wednesday August 31 from 2:00 - 3:00 PM in 370 Jay Street - Room 307.](https://docs.google.com/forms/d/1-jB-yDQZsUec4E5xTQlXfJGQx2N09CUsQ4IKJR4dMDo/viewform?__s=3p2wgvfhy2jqv5gzbszs&edit_requested=true)
+### Teaching/classroom resources
+- [NYU Tandon remote instruction assistance](https://engineering.nyu.edu/academics/support-services/faculty-innovation-fitl/remote-instruction) 
+- [NYU Steinhardt remote instruction toolkit](https://sites.google.com/nyu.edu/nyu-steinhardt-toolkit/home) 
+- [NYU Virtual Teaching Community](https://sites.google.com/nyu.edu/virtual-teaching-community/home) 
+- [NYU Central Remote Instruction Support](https://www.nyu.edu/faculty/teaching-and-learning-resources/remote-instruction-support.html) &mdash; How-to with Zoom, Classes, NYU Stream, etc. 
+- [NYU Teach Talks](https://sites.google.com/nyu.edu/virtual-teaching-community/teachtalks?authuser=0), a series of faculty-focused conversations about teaching at NYU. 
+    - [Video archive of the July 2020 Teach Talks conference](https://sites.google.com/nyu.edu/teachcamp/recordings-resources?authuser=1&pli=1)
+
+### General NYU resources
+- [NYU Covid Information](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
