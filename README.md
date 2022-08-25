@@ -5,7 +5,7 @@
 
 Classes are to be on-campus unless prior arrangements were made. Students are expected to be on-campus for classes. [All faculty, students, and staff must submit proof of vaccination and a booster shot for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). 
 
-We are slowly moving back to a sembance of normalcy. Masks are still required in all classrooms until further notice. Students should refrain from earing in the classroom as well. The Daily Screener is going away, being replaced with a program named [Violet Go which can be stored in your phone's digital wallet](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/covid-related-guidance/violet-go.html).
+We are slowly moving back to a sembance of normalcy. Masks are still required in all classrooms until further notice. Students should refrain from earing in the classroom as well. The Daily Screener is going away, being replaced with a program named [Violet Go which can be stored in your phone's digital wallet](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/covid-related-guidance/violet-go.html). You can [access the web version at this link](https://nyu.qualtrics.com/jfe/form/SV_ePNv0eXvGWgCxkq).
 
 ## [Quick reference page](f2022_covid_reference.md)
 
