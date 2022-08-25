@@ -14,7 +14,7 @@
 ## COVID-19 Policies 
 [NYU's primary COVID-19 Info pages](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
 
-## What to do if you tes positive for covid
+## What to do if you test positive for covid
 If you test positive, you are required to isolate until you are no longer infectious, regardless of your vaccination status. You are not permitted to enter NYU buildings or participate in NYU-sponsored in-person activities until you meet the criteria for ending isolation.
 
 You must [complete the COVID-19 Report Form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT)
