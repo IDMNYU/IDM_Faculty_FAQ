@@ -9,5 +9,4 @@ Access 2 Metrotech at NYU Tandon School of Engineering lobby; do not access via 
 If you require access to 2 MetroTech, please email [Eric Maiello](mailto:eric.maiello@nyu.edu) with your net ID & N number, located on the back of your NYU ID.
 
 ### 2 MetroTech Labs & rooms
-* Black Box/Mocap room
 * Sound Studio
