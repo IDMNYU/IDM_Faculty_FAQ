@@ -132,7 +132,7 @@
 * [Jack Toolin](http://www.jacktoolin.net)
 * [Roopa Vasudevan](https://roopavasudevan.com)
 * [Matthew Weise](http://www.matthewweise.com)
-
+* [Setor Zilevu](https://www.setorzilevu.com)
 
 ## Other IDM Adjunct Faculty
 
