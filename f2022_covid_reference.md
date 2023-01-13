@@ -1,4 +1,4 @@
-# Teaching notes Fall 2022
+# Teaching notes Spring 2023
 
 ## Contacts
 * Campus Safety - 212-998-2222 // 911 if life threatening
@@ -22,17 +22,7 @@ You must [complete the COVID-19 Report Form](https://nyu.qualtrics.com/jfe/form/
 If a student discloses their covid status to you, tell them to stay home and fill out the self-reporting form above. If you have recentluy in in close contact with the student, you should also report the possible exposure, and strongly consider taking your class(es) online until you have received a negative PCR test.
 
 ## Masking
-_Masks are required at all times in IDM public spaces, studios, and classrooms_
-[NYU's full mask policy can be seen here](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/covid-related-guidance/protective-equipment.html) 
-
-The tl;dr of it all is this : in classrooms and other instructional spaces, masks must be worn at all times. This policy applies to our studio spaces, which often act as double duty classrooms and workshop areas.
-
-You may remove your mask in a shared office when you are alone. If there are others present, you should keep your mask on. 
-
-These policies are continually reviewed throughout the semester and may be updated in accordance with University rules. 
-
-## Eating
-You may eat in an office if you're by yourself. If there are others present, please move to the cafeteria on the second floor. You are welcome to use the refrigerator (cleaned out weekly on Friday evenings) and microwave, utensils, mugs, etc in the 3rd floor space. 
+Masks are not required, but encouraged. You may not enforce maksing or non-masking.
 
 ## Reporting non-compliance
 If students aren’t complying with protocols, you should treat them as you would any other student breaking rules and being disruptive to class, up to and including asking them to leave, reporting them to the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu), or contacting campus safety at 212-998-2222.
