@@ -30,16 +30,15 @@ If students aren’t complying with protocols, you should treat them as you woul
 ## Field trips
 We can have group field trips or similar experiences this fall, though everyone is expected to adhere to NYU standards for masking, etc. If you want students to visit a site, please keep in mind that some may not be able to attend at all. Those who can attend should obey all COVID and other safety guidelines. 
 
-## On Campus Guests (subject to change soon!)
-We are allowed to have guests on campus. Advance notice is still required; same and next-day visit requests are not permitted. All visitors, vendors, and affiliates must be sponsored by an NYU employee. [The full university policy can be seen at this page.](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/campus-visitors.html) 
-
-Guests must be vaccinated and boosted to visit campus. 
-
-At _least_ one week before your guest is to come to campus, [you must to fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
+## On Campus Guests 
+We are allowed to have guests on campus. Advance notice is still required. All visitors, vendors, and affiliates must be sponsored by an NYU employee. 
+At one week before your guest is to come to campus, [you must to fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
 
 After a request has been made, a form will be sent to the visitor to enter their information and upload proof of vaccination. Once approved, you and your visitor will receive notification. 
 
-All visitor, vendor, and affiliate access request emails are generated from an automated system called VEOCI. If you or your sponsored person(s) have not received an email as expected, please search for “NYU Campus Safety” or ”veoci”.
+Guests must be vaccinated and boosted to visit campus. 
+
+All visitor, vendor, and affiliate access request emails are generated from an automated system called VEOCI. If you or your sponsored person(s) have not received an email as expected, please search for “NYU Campus Safety” or ”Veoci”.
 
 ## Expectations for students
 If a student says they are ill, we must take them at face value. We shouldn't ask them for proof or documentation to be verified by the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) unless there is an ongoing or unusual concern. 
