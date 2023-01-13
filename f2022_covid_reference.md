@@ -64,11 +64,9 @@ Prior to the first day of class, [send your syllabus to Eric](mailto:em1680@nyu.
 Office hours may happen face-to-face, but they may also may be held remote. It is at your discretion. Regardless of how you do this, students must know the best way to reach you outside the classroom.
 
 ## Classroom setup
-Our classrooms have whiteboards, a camera, microphone, speakers, and monitor. The third floor classroms now have a podium for lectures that also support Zoom. [A training for the 3rd floor clasrooms is happening Wednesday August 31 from 2:00 - 3:00 PM in 370 Jay Street - Room 307.](https://docs.google.com/forms/d/1-jB-yDQZsUec4E5xTQlXfJGQx2N09CUsQ4IKJR4dMDo/viewform?__s=3p2wgvfhy2jqv5gzbszs&edit_requested=true)
+Our classrooms on the 3rd floor of 370 Jay Street are managed by Tandon Media Services and have whiteboards, a camera, microphone, speakers, and monitor. The third floor classroms now have a podium for lectures that also support Zoom. [Tutorials and training materials can be found online.](https://engineering.nyu.edu/services/media-services/tutorials)
 
 ## Labs and the Equipment Room
-Starting Sept 4, the ER and the print lab will be open on a limited basis for studnet work. If you have a particular need prior to a full opening (expected in late September), please email idmtech@nyu.edu and explain what your needs are.
-
 Students must have insurance to check out materials from the ER. [Details may be found on the IDM Tech website](https://wp.nyu.edu/idmtech/equipment/). 
 
 ## Technology
