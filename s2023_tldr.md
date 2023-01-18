@@ -11,18 +11,16 @@
 ## IDM Public Events calendar
  [IDM Public calendar of events](https://calendar.google.com/calendar/u/1?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (includes University dates, thesis, senior project, show, public talks, etc.). If you have a public facing event you would like to add to the calendar, please email Kazi Rahman.
 
-## COVID-19 Policies 
-[NYU's primary COVID-19 Info pages](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
-
-## What to do if you test positive for covid
-If you test positive, you are required to isolate until you are no longer infectious, regardless of your vaccination status. You are not permitted to enter NYU buildings or participate in NYU-sponsored in-person activities until you meet the criteria for ending isolation.
-
-You must [complete the COVID-19 Report Form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT)
-
-If a student discloses their covid status to you, tell them to stay home and fill out the self-reporting form above. If you have recently in in close contact with the student, you should also report the possible exposure, and strongly consider taking your class(es) online until you have received a negative PCR test.
-
 ## Masking
 Masks are not required, but encouraged. You may not enforce maksing or non-masking.
+
+## Labs and the Equipment Room
+- [Purchasing Request Form](https://docs.google.com/forms/d/e/1FAIpQLScmWHDXp8t0q7o4fCC75SOMUkjnBNZSfePbGrrZ37hNte879Q/viewform): Use this form to request a purchase (ex: new equipment or supplies)
+- [Equipment Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEmJexNAEj5bxPRXWiZ2Z-0L-F1M6SmLKR2oaYHqLtiqaWng/viewform): Use this form to request equipment for a class or event (ex: Arduino kits for a class or a projector for an installation) 
+- Email to contact the technical team: [IDMtech@nyu.edu](mailto:IDMtech@nyu.edu)
+- [IDM Labs/Studios site](https://wp.nyu.edu/idmtech/)
+- [IDM Equipment Room](http://equipment.bxmc.poly.edu)
+    - Students must have insurance to check out materials from the ER. [Details may be found on the IDM Tech website](https://wp.nyu.edu/idmtech/equipment/). 
 
 ## Getting help for studnets
 The [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) 
@@ -64,13 +62,15 @@ Office hours may happen face-to-face, but they may also may be held remote. It i
 ## Classroom setup
 Our classrooms on the 3rd floor of 370 Jay Street are managed by Tandon Media Services and have whiteboards, a camera, microphone, speakers, and monitor. The third floor classroms now have a podium for lectures that also support Zoom. [Tutorials and training materials can be found online.](https://engineering.nyu.edu/services/media-services/tutorials)
 
-## Labs and the Equipment Room
-- [Purchasing Request Form](https://docs.google.com/forms/d/e/1FAIpQLScmWHDXp8t0q7o4fCC75SOMUkjnBNZSfePbGrrZ37hNte879Q/viewform): Use this form to request a purchase (ex: new equipment or supplies)
-- [Equipment Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEmJexNAEj5bxPRXWiZ2Z-0L-F1M6SmLKR2oaYHqLtiqaWng/viewform): Use this form to request equipment for a class or event (ex: Arduino kits for a class or a projector for an installation) 
-- Email to contact the technical team: [IDMtech@nyu.edu](mailto:IDMtech@nyu.edu)
-- [IDM Labs/Studios site](https://wp.nyu.edu/idmtech/)
-- [IDM Equipment Room](http://equipment.bxmc.poly.edu)
-    - Students must have insurance to check out materials from the ER. [Details may be found on the IDM Tech website](https://wp.nyu.edu/idmtech/equipment/). 
+## COVID-19 Policies 
+[NYU's primary COVID-19 Info pages](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information.html)
+
+## What to do if you test positive for covid
+If you test positive, you are required to isolate until you are no longer infectious, regardless of your vaccination status. You are not permitted to enter NYU buildings or participate in NYU-sponsored in-person activities until you meet the criteria for ending isolation.
+
+You must [complete the COVID-19 Report Form](https://nyu.qualtrics.com/jfe/form/SV_bCvIk6DpqWeFsJT)
+
+If a student discloses their covid status to you, tell them to stay home and fill out the self-reporting form above. If you have recently in in close contact with the student, you should also report the possible exposure, and strongly consider taking your class(es) online until you have received a negative PCR test.
 
 ## Univeristy Technology
 There is no mandate to use any particular learning management system (LMS). NYU now has [Brightspace as a LMS](https://brightspace.nyu.edu), which you are welcome to use. Some faculty prefer github, others like wordpress, some even like Brightspace. Use what works best for you. Need NYU Brightspace Support? [Take a look at the Instructor Guide](https://docs.google.com/document/d/1T-XiDuK5HFe0i8EhtgvfJI0TBrwy_AdX5HYA39kmYog/edit)
