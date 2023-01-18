@@ -5,7 +5,7 @@
 
 Classes are to be on-campus unless prior arrangements were made. Students are expected to be on-campus for classes. [All faculty, students, and staff must submit proof of vaccination and a booster shot for access to campus](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-requirement.html). 
 
-## [Quick reference page](f2022_covid_reference.md)
+## [Quick reference page](s2023_tldr.md)
 
 ## Notes
 * [Important Dates](important_dates.md)
