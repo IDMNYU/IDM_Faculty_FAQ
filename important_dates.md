@@ -8,6 +8,6 @@
   * Midterm grades due (undergrads only): Fri, Mar 31
   * Last day to withdraw with a 'W' : Tues, May 2
   * Last day of classes : Mon, May 8
-  * IDM Showcase : Wed, May 11
+  * IDM Showcase : Wed, May 10
   * Final grades due no later than May 16
 * **IDM Faculty Orientation** Wed, Jan 18 6:30pm
