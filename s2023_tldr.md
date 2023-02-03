@@ -22,7 +22,7 @@ Masks are not required, but encouraged. You may not enforce maksing or non-maski
 - [IDM Equipment Room](http://equipment.bxmc.poly.edu)
     - Students must have insurance to check out materials from the ER. [Details may be found on the IDM Tech website](https://wp.nyu.edu/idmtech/equipment/). 
 
-## Getting help for studnets
+## Getting help for students
 The [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) 
 
 ## Field trips
@@ -30,9 +30,9 @@ We can have group field trips or similar experiences this spring.
 
 ## On Campus Guests 
 We are allowed to have guests on campus. Advance notice is still required. All visitors, vendors, and affiliates must be sponsored by an NYU employee. 
-At least one business day before your guest is to come to campus, [you must to fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
+At least one business day before your guest is to come to campus, [you must fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
 
-After a request has been made, an email will be sent to the visitor - they must shpw this to the guard downstairs when they arrive. Someone needs to meet your guest at the entrance and see them in.
+After a request has been made, an email will be sent to the visitor - they must show this to the guard downstairs when they arrive. Someone needs to meet your guest at the entrance and see them in.
 
 All visitor, vendor, and affiliate access request emails are generated from an automated system called VEOCI. If you or your sponsored person(s) have not received an email as expected, please search for “NYU Campus Safety” or ”Veoci”.
 
