@@ -30,9 +30,9 @@ We can have group field trips or similar experiences this spring.
 
 ## On Campus Guests 
 We are allowed to have guests on campus. Advance notice is still required. All visitors, vendors, and affiliates must be sponsored by an NYU employee. 
-One week before your guest is to come to campus, [you must to fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
+At least one business day before your guest is to come to campus, [you must to fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
 
-After a request has been made, a form will be sent to the visitor to enter their information and upload proof of vaccination. Once approved, you and your visitor will receive notification. 
+After a request has been made, an email will be sent to the visitor - they must shpw this to the guard downstairs when they arrive. Someone needs to meet your guest at the entrance and see them in.
 
 All visitor, vendor, and affiliate access request emails are generated from an automated system called VEOCI. If you or your sponsored person(s) have not received an email as expected, please search for “NYU Campus Safety” or ”Veoci”.
 
