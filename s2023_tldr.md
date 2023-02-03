@@ -8,11 +8,16 @@
 * Questions about IDM/NYU/Tandon policies - idmadvise@nyu.edu
 * COVID compliance - covidcompliance@nyu.edu
 
-## IDM Public Events calendar
- [IDM Public calendar of events](https://calendar.google.com/calendar/u/1?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (includes University dates, thesis, senior project, show, public talks, etc.). If you have a public facing event you would like to add to the calendar, please email Kazi Rahman.
-
 ## Masking
 Masks are not required, but encouraged. You may not enforce maksing or non-masking.
+
+## On Campus Guests 
+We are allowed to have guests on campus. Advance notice is still required. All visitors, vendors, and affiliates must be sponsored by an NYU employee. 
+At least one business day before your guest is to come to campus, [you must fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
+
+After a request has been made, an email will be sent to the visitor - they must show this to the guard downstairs when they arrive. Someone needs to meet your guest at the entrance and see them in.
+
+All visitor, vendor, and affiliate access request emails are generated from an automated system called VEOCI. If you or your sponsored person(s) have not received an email as expected, please search for “NYU Campus Safety” or ”Veoci”.
 
 ## Labs and the Equipment Room
 - [Purchasing Request Form](https://docs.google.com/forms/d/e/1FAIpQLScmWHDXp8t0q7o4fCC75SOMUkjnBNZSfePbGrrZ37hNte879Q/viewform): Use this form to request a purchase (ex: new equipment or supplies)
@@ -27,14 +32,6 @@ The [office of student advocacy](mailto:eng.studentadvocate@nyu.edu)
 
 ## Field trips
 We can have group field trips or similar experiences this spring.
-
-## On Campus Guests 
-We are allowed to have guests on campus. Advance notice is still required. All visitors, vendors, and affiliates must be sponsored by an NYU employee. 
-At least one business day before your guest is to come to campus, [you must fill out the NYU Visitor Request Form](https://veoci.com/v/p/119522/workflow/z8wcftjfe7p3). You will receive a notification email confirming the request has been submitted.
-
-After a request has been made, an email will be sent to the visitor - they must show this to the guard downstairs when they arrive. Someone needs to meet your guest at the entrance and see them in.
-
-All visitor, vendor, and affiliate access request emails are generated from an automated system called VEOCI. If you or your sponsored person(s) have not received an email as expected, please search for “NYU Campus Safety” or ”Veoci”.
 
 ## Expectations for students
 If a student says they are ill, we must take them at face value. We shouldn't ask them for proof or documentation to be verified by the [office of student advocacy](mailto:eng.studentadvocate@nyu.edu) unless there is an ongoing or unusual concern. 
@@ -84,6 +81,9 @@ We have a [service named NYU Stream for sharing videos](https://www.nyu.edu/life
 
 ## Resources
 There are a load of resources that have emerged in the last year+ for online and remote pedagogy. Tandon and NYU have a coulpe places for instructional support as well.
+
+## IDM Public Events calendar
+ [IDM Public calendar of events](https://calendar.google.com/calendar/u/1?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (includes University dates, thesis, senior project, show, public talks, etc.). If you have a public facing event you would like to add to the calendar, please email Kazi Rahman.
 
 ### Teaching/classroom resources
 - [NYU Central Remote Instruction Support](https://www.nyu.edu/faculty/teaching-and-learning-resources/remote-instruction-support.html) &mdash; How-to with Zoom, Classes, NYU Stream, etc. 
